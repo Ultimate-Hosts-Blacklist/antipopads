@@ -1,8 +1,10 @@
-# About [antipopads]
+# About antipopads
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/antipopads.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/antipopads)
 
-[Description]
+```
+List of popads.net domains for use in adblock
+```
 
 --------------------------------------------------------------------------------
 
