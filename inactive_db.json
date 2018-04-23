@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/antipopads/domains.list": {
-        "1524228459": [
+        "1524487739": [
             "aaqpajztftqw.com",
             "acnsavlosahs.com",
             "adudzlhdjgof.com",
@@ -17,6 +17,7 @@
             "anyuwksovtwv.com",
             "aomvdhxvblfp.com",
             "aoqviogrwckf.com",
+            "apbwldhfuvnk.com",
             "aqdrzqsuxxvd.com",
             "asecxggulyrf.com",
             "atcyboopajyp.com",
@@ -28,7 +29,9 @@
             "beghfkrygvxp.com",
             "bhejerqgrtlq.com",
             "bhjhijisulwl.com",
-            "bhyqllgtzjee.com",
+            "bhyqllgtzjee.com"
+        ],
+        "to_test": [
             "bjkfmvhygpub.com",
             "bocksnabswdq.com",
             "bqptlqmtroto.com",
@@ -1908,9 +1911,7 @@
             "zziblxasbl.bid",
             "zzqnkezokbegc.bid",
             "zzvjaqnkq.bid",
-            "zzwzjidz.bid"
-        ],
-        "to_test": [
+            "zzwzjidz.bid",
             "aanvxbvkdxph.com"
         ]
     }
