@@ -50,6 +50,11 @@
             "expiration_date": "08-may-2019",
             "state": "future"
         },
+        "abbahoxgss.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
         "abbowtxibib.com": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
@@ -348,7 +353,7 @@
         "ajkjnofeqrra.bid": {
             "epoch": "1542844800",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ajmyrtdiwvg.bid": {
             "epoch": "1538956800",
@@ -515,6 +520,11 @@
             "expiration_date": "03-sep-2018",
             "state": "past"
         },
+        "amlcscfr.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
         "amlyrket.bid": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
@@ -618,7 +628,7 @@
         "aoqpvhstmc.bid": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "aoqvovzrtlpn.bid": {
             "epoch": "1536624000",
@@ -658,6 +668,11 @@
         "aphjbgth.com": {
             "epoch": "1557964800",
             "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "apiryrkxkhil.com": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "aplfkrppjsutf.com": {
@@ -753,6 +768,11 @@
         "arawegnvvufy.com": {
             "epoch": "1566518400",
             "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "arcfwcxi.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "arfttojxv.com": {
@@ -1105,6 +1125,11 @@
             "expiration_date": "10-nov-2018",
             "state": "past"
         },
+        "azfoibmukpwz.com": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
         "azgmbqhlr.com": {
             "epoch": "1568937600",
             "expiration_date": "20-sep-2019",
@@ -1260,6 +1285,11 @@
             "expiration_date": "10-oct-2018",
             "state": "past"
         },
+        "bdhxpxohwssdfd.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
         "bdkduogsu.bid": {
             "epoch": "1539561600",
             "expiration_date": "15-oct-2018",
@@ -1313,6 +1343,11 @@
         "behybmunweid.com": {
             "epoch": "1564444800",
             "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "bekiruvppl.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "bektvxxfv.bid": {
@@ -1508,6 +1543,11 @@
         "bisvljlzmai.com": {
             "epoch": "1561852800",
             "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "biupcyhpmjazv.com": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "biwjfwhxoy.bid": {
@@ -2088,7 +2128,7 @@
         "bxfsdzpffy.bid": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bxoemfpetyqi.bid": {
             "epoch": "1534550400",
@@ -2240,9 +2280,19 @@
             "expiration_date": "11-jul-2019",
             "state": "future"
         },
+        "cayqecxokz.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
         "cbbabemymc.com": {
             "epoch": "1557964800",
             "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "cbdjzemui.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "cbehcazifywmro.bid": {
@@ -2313,7 +2363,7 @@
         "ccscpyeeiqhs.bid": {
             "epoch": "1542844800",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ccvewygyjqbq.bid": {
             "epoch": "1535414400",
@@ -2468,7 +2518,7 @@
         "cijfsxtsjpx.bid": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cijwskfvye.com": {
             "epoch": "1554508800",
@@ -3148,6 +3198,11 @@
         "cyhcpeprgy.com": {
             "epoch": "1567900800",
             "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "cymeeoolym.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "cyssfnqt.com": {
@@ -3898,6 +3953,11 @@
         "dpmyrskvbznvn.com": {
             "epoch": "1554422400",
             "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "dpoffxqjlgt.com": {
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "dpqytzwxohcd.bid": {
@@ -5728,7 +5788,7 @@
         "fkkjsdpppv.bid": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "fkpbbmgqa.bid": {
             "epoch": "1534896000",
@@ -5758,6 +5818,11 @@
         "fldlyzvhgjq.com": {
             "epoch": "1562889600",
             "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "flgstgrcwapk.com": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "flkyhwjhp.com": {
@@ -6335,6 +6400,11 @@
             "expiration_date": "14-aug-2018",
             "state": "past"
         },
+        "fxvbsnwnwoib.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
         "fxzdwisjdihwj.bid": {
             "epoch": "1544313600",
             "expiration_date": "09-dec-2018",
@@ -6413,6 +6483,11 @@
         "fzrcalpbcu.com": {
             "epoch": "1558396800",
             "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "fzwxuqoy.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "fzxraumht.bid": {
@@ -6516,9 +6591,9 @@
             "state": "future"
         },
         "gcxsbflncu.bid": {
-            "epoch": "1535155200",
-            "expiration_date": "25-aug-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "gcypxlue.bid": {
             "epoch": "1534550400",
@@ -6568,6 +6643,11 @@
         "gedmodsxbebd.com": {
             "epoch": "1557878400",
             "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "gekywqwky.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "genqrabot.com": {
@@ -6935,6 +7015,11 @@
             "expiration_date": "10-mar-2019",
             "state": "future"
         },
+        "gnreqzzts.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
         "gobijnwbyri.com": {
             "epoch": "1557273600",
             "expiration_date": "08-may-2019",
@@ -7113,7 +7198,7 @@
         "gqtaibrlhbwd.bid": {
             "epoch": "1542844800",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "gqtcapjnn.bid": {
             "epoch": "1536105600",
@@ -7650,6 +7735,11 @@
             "expiration_date": "13-aug-2019",
             "state": "future"
         },
+        "hdcfyrzx.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
         "hddgigiwip.bid": {
             "epoch": "1540512000",
             "expiration_date": "26-oct-2018",
@@ -7753,7 +7843,7 @@
         "hffqgxgjiqdlx.bid": {
             "epoch": "1542153600",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hfhhijsewsqn.com": {
             "epoch": "1563235200",
@@ -7840,6 +7930,11 @@
             "expiration_date": "11-jun-2019",
             "state": "future"
         },
+        "hhleomgyiruth.com": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
         "hhnamywutsvovm.bid": {
             "epoch": "1537142400",
             "expiration_date": "17-sep-2018",
@@ -7874,6 +7969,11 @@
             "epoch": "1534204800",
             "expiration_date": "14-aug-2018",
             "state": "past"
+        },
+        "higishzxn.com": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "higrbwtxkjuw.com": {
             "epoch": "1552608000",
@@ -7958,7 +8058,7 @@
         "hkurphzwv.bid": {
             "epoch": "1542412800",
             "expiration_date": "17-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hkvqwkeyruvy.bid": {
             "epoch": "1535155200",
@@ -8318,7 +8418,7 @@
         "hsyjdpgetl.bid": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "htabtzmi.bid": {
             "epoch": "1541635200",
@@ -8333,7 +8433,7 @@
         "htkoyuyk.bid": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "htldvsrwwx.bid": {
             "epoch": "1534636800",
@@ -8398,7 +8498,7 @@
         "huriylhqkylbo.bid": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "husetdmrejiyjy.bid": {
             "epoch": "1544313600",
@@ -8533,7 +8633,7 @@
         "hxlkmsib.bid": {
             "epoch": "1542585600",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hxqdddqnuqcwe.com": {
             "epoch": "1562371200",
@@ -8578,7 +8678,7 @@
         "hyexdezezjqw.bid": {
             "epoch": "1542672000",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hyhabjqndvwf.bid": {
             "epoch": "1539043200",
@@ -8613,17 +8713,17 @@
         "hzxtamstwecry.bid": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hzyvjghy.bid": {
             "epoch": "1541376000",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hzyxaqdr.bid": {
             "epoch": "1541376000",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "iaimnsxepxdy.bid": {
             "epoch": "1540166400",
@@ -8753,7 +8853,7 @@
         "icyddcsjbqjxz.bid": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "icyfqtjj.bid": {
             "epoch": "1537833600",
@@ -8829,6 +8929,11 @@
             "epoch": "1540252800",
             "expiration_date": "23-oct-2018",
             "state": "past"
+        },
+        "ieqbsnteuyn.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "ieuezabolxphga.com": {
             "epoch": "1557964800",
@@ -9023,7 +9128,7 @@
         "ijuawecwqhwyou.bid": {
             "epoch": "1540771200",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "ijvolcqtnxohl.com": {
             "epoch": "1549065600",
@@ -9063,7 +9168,7 @@
         "ikmmsoihdmfkbh.bid": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ikmymeivze.com": {
             "epoch": "1558310400",
@@ -9193,7 +9298,7 @@
         "invgsoqwtkvxs.bid": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "iogutpkrkkycq.com": {
             "epoch": "1567036800",
@@ -9218,7 +9323,7 @@
         "iolzwhbf.bid": {
             "epoch": "1541289600",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ioryejnzvbbluh.bid": {
             "epoch": "1544572800",
@@ -9335,10 +9440,15 @@
             "expiration_date": "13-dec-2018",
             "state": "future"
         },
+        "irfiysdcrnleu.com": {
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
         "irlklysyeqek.bid": {
             "epoch": "1541808000",
             "expiration_date": "10-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "irmfncjihlb.com": {
             "epoch": "1559174400",
@@ -9408,7 +9518,7 @@
         "itsskxyyi.bid": {
             "epoch": "1542844800",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "itsyuvrlesq.com": {
             "epoch": "1567209600",
@@ -9439,6 +9549,11 @@
             "epoch": "1539993600",
             "expiration_date": "20-oct-2018",
             "state": "past"
+        },
+        "iuncajvw.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
         },
         "iupqelechcmj.com": {
             "epoch": "1569715200",
@@ -9538,7 +9653,7 @@
         "ixqpfqtwi.bid": {
             "epoch": "1541808000",
             "expiration_date": "10-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ixrtmzmk.bid": {
             "epoch": "1544659200",
@@ -9560,14 +9675,29 @@
             "expiration_date": "24-may-2019",
             "state": "future"
         },
+        "ixtmbdajhvimtv.com": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
         "ixvsxjiw.com": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
             "state": "future"
         },
+        "ixwbgjnjf.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
         "iybkbyciv.com": {
             "epoch": "1570579200",
             "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "iydppfwjgcjs.com": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "iygdvith.com": {
@@ -9593,7 +9723,7 @@
         "iynfhmgte.bid": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "iyqchvtlklbxm.com": {
             "epoch": "1572480000",
@@ -9613,6 +9743,11 @@
         "izavihllfvej.com": {
             "epoch": "1569369600",
             "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "izedcwsouaszk.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "izelshnkrh.com": {
@@ -9659,6 +9794,11 @@
             "epoch": "1537401600",
             "expiration_date": "20-sep-2018",
             "state": "past"
+        },
+        "jaihowgr.com": {
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
         },
         "jairtejvkqiux.com": {
             "epoch": "1560038400",
@@ -9718,7 +9858,7 @@
         "jbpyqajzwbh.bid": {
             "epoch": "1542585600",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jbqolazohwqesu.com": {
             "epoch": "1552521600",
@@ -9743,7 +9883,7 @@
         "jcblfhpmxqflm.bid": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jccdpudtb.bid": {
             "epoch": "1545264000",
@@ -9825,6 +9965,11 @@
             "expiration_date": "03-mar-2019",
             "state": "future"
         },
+        "jdskyjntuhea.com": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
         "jdtufqcyumvb.com": {
             "epoch": "1565568000",
             "expiration_date": "12-aug-2019",
@@ -9870,6 +10015,11 @@
             "expiration_date": "21-may-2019",
             "state": "future"
         },
+        "jenaowzhtbi.com": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
         "jeqixokniyny.com": {
             "epoch": "1553644800",
             "expiration_date": "27-mar-2019",
@@ -9878,6 +10028,11 @@
         "jeuqrslzoxdcz.com": {
             "epoch": "1562371200",
             "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "jevxjcdnrd.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "jeyuhcbagxbp.com": {
@@ -9933,7 +10088,7 @@
         "jfwfnxsdzhvxax.bid": {
             "epoch": "1542672000",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jfxiirxbl.bid": {
             "epoch": "1535414400",
@@ -10303,6 +10458,11 @@
         "joxocqrbxe.bid": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "jozfwcmrxkwva.com": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "jpcfosuswcqy.com": {
@@ -10810,6 +10970,11 @@
             "expiration_date": "12-dec-2018",
             "state": "future"
         },
+        "kbqebfcubeiaa.com": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
         "kbsceyleonkq.com": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
@@ -10878,6 +11043,11 @@
         "kdekyymbn.bid": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "kdfjjvidllnbaa.com": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "kdhkjeklzihiwh.com": {
