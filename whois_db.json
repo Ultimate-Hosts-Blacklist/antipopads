@@ -22483,7 +22483,7 @@
         "tlfloruou.com": {
             "epoch": "1549497600",
             "expiration_date": "07-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "tlhadcbtntr.com": {
             "epoch": "1556236800",
@@ -23483,7 +23483,7 @@
         "uhccvnxi.com": {
             "epoch": "1549497600",
             "expiration_date": "07-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "uhgnxrkhoi.bid": {
             "epoch": "1538006400",
