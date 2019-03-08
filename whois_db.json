@@ -595,6 +595,11 @@
             "expiration_date": "13-aug-2018",
             "state": "past"
         },
+        "alvdtjrb.com": {
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
         "alxetzfhlzekv.bid": {
             "epoch": "1542153600",
             "expiration_date": "14-nov-2018",
@@ -2145,6 +2150,11 @@
             "expiration_date": "07-jan-2020",
             "state": "future"
         },
+        "bqcoenkrlqk.com": {
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
         "bqdpscae.bid": {
             "epoch": "1539043200",
             "expiration_date": "09-oct-2018",
@@ -2938,6 +2948,11 @@
         "cifipkbu.com": {
             "epoch": "1567382400",
             "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "cifwsaufnalvh.com": {
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "cijfsxtsjpx.bid": {
