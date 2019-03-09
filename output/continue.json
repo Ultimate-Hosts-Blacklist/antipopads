@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/antipopads/domains.list": {
-        "down": 4094,
+        "down": 4506,
         "invalid": 1,
-        "tested": 7743,
-        "up": 3648
+        "tested": 8184,
+        "up": 3677
     }
 }
