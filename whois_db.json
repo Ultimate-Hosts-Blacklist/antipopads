@@ -8168,7 +8168,7 @@
         "gnqqajovkhfmq.com": {
             "epoch": "1552176000",
             "expiration_date": "10-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "gnreqzzts.com": {
             "epoch": "1574294400",
@@ -8428,7 +8428,7 @@
         "grubpbrmek.com": {
             "epoch": "1552176000",
             "expiration_date": "10-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "grvoflsctenq.bid": {
             "epoch": "1534204800",
