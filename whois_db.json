@@ -24060,6 +24060,11 @@
             "expiration_date": "19-aug-2018",
             "state": "past"
         },
+        "tfhuupltipcg.com": {
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
         "tfijbdegozfh.com": {
             "epoch": "1568073600",
             "expiration_date": "10-sep-2019",
@@ -24918,7 +24923,7 @@
         "twdsaqqrzbowom.com": {
             "epoch": "1552262400",
             "expiration_date": "11-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "twfcqnqggx.com": {
             "epoch": "1563235200",
@@ -25248,6 +25253,11 @@
         "uclylhzwg.com": {
             "epoch": "1564876800",
             "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "ucozssymgw.com": {
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
             "state": "future"
         },
         "ucvrtwfh.com": {
