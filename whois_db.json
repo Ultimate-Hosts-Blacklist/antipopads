@@ -830,6 +830,11 @@
             "expiration_date": "03-sep-2018",
             "state": "past"
         },
+        "apsntakwzycu.com": {
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
         "aptaeabkg.com": {
             "epoch": "1553040000",
             "expiration_date": "20-mar-2019",
@@ -1961,9 +1966,9 @@
             "state": "past"
         },
         "bmayhacntxax.com": {
-            "epoch": "1552089600",
-            "expiration_date": "09-mar-2019",
-            "state": "past"
+            "epoch": "1583712000",
+            "expiration_date": "09-mar-2020",
+            "state": "future"
         },
         "bmbnpxxwxdt.com": {
             "epoch": "1583366400",
