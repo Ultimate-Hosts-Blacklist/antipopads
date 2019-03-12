@@ -678,7 +678,7 @@
         "anasjdzutdmv.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "aneqmscervl.com": {
             "epoch": "1573344000",
@@ -2283,7 +2283,7 @@
         "bsxctkajqdp.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "btkaoblylg.bid": {
             "epoch": "1535587200",
@@ -3036,8 +3036,8 @@
             "state": "future"
         },
         "cjnqsrzyhil.com": {
-            "epoch": "1552348800",
-            "expiration_date": "12-mar-2019",
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
             "state": "future"
         },
         "cjojvvfyb.com": {
@@ -3346,9 +3346,9 @@
             "state": "future"
         },
         "cqaiylftp.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
-            "state": "past"
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
         },
         "cqcebzspxptwfl.bid": {
             "epoch": "1535673600",
