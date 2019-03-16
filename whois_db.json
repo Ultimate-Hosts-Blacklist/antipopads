@@ -22018,7 +22018,7 @@
         "rhvgtmgkahm.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "rhypgggd.com": {
             "epoch": "1566259200",
@@ -22121,9 +22121,9 @@
             "state": "future"
         },
         "rjtcrxzd.com": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
-            "state": "past"
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
         },
         "rjveitlz.com": {
             "epoch": "1577318400",
@@ -22186,8 +22186,8 @@
             "state": "past"
         },
         "rlaiomvkwz.com": {
-            "epoch": "1552694400",
-            "expiration_date": "16-mar-2019",
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "rlgungosm.com": {
@@ -22530,6 +22530,11 @@
             "expiration_date": "30-sep-2019",
             "state": "future"
         },
+        "rsguboxyb.com": {
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
         "rsiyppewvonkc.com": {
             "epoch": "1578268800",
             "expiration_date": "06-jan-2020",
@@ -22693,6 +22698,11 @@
         "rvyvkjqffmdp.com": {
             "epoch": "1579046400",
             "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
+        "rwalomjwgyljqj.com": {
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "rwaxdqfuqih.bid": {
@@ -24006,9 +24016,9 @@
             "state": "future"
         },
         "tbeouuheoyl.com": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
-            "state": "past"
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
         },
         "tbhmqjpm.com": {
             "epoch": "1554508800",
