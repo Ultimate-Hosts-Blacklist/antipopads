@@ -12978,7 +12978,7 @@
         "kdiunbsaw.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "kdkzvfzmgvm.com": {
             "epoch": "1556496000",
@@ -13058,6 +13058,11 @@
         "kfyhxmycgjaqkn.com": {
             "epoch": "1567296000",
             "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "kfyksytsx.com": {
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "kfypsloqkccvpl.com": {
@@ -13781,9 +13786,9 @@
             "state": "future"
         },
         "kuwzhgbnygarx.com": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
-            "state": "past"
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
         },
         "kvajiszer.bid": {
             "epoch": "1539302400",
@@ -14271,9 +14276,9 @@
             "state": "past"
         },
         "leuojmgbkpcl.com": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
-            "state": "past"
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
         },
         "levjirsqbtjhif.bid": {
             "epoch": "1534809600",
@@ -15420,6 +15425,11 @@
             "expiration_date": "04-sep-2019",
             "state": "future"
         },
+        "makumuvgxfogq.com": {
+            "epoch": "1584230400",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
         "mardjxrw.club": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
@@ -15531,8 +15541,8 @@
             "state": "future"
         },
         "mcvyeitc.com": {
-            "epoch": "1552608000",
-            "expiration_date": "15-mar-2019",
+            "epoch": "1584230400",
+            "expiration_date": "15-mar-2020",
             "state": "future"
         },
         "mcwvyuifwml.bid": {
