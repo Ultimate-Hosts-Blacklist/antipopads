@@ -24478,7 +24478,7 @@
         "tjrlwhge.com": {
             "epoch": "1552780800",
             "expiration_date": "17-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "tjyoznaozivi.com": {
             "epoch": "1566950400",
@@ -25226,9 +25226,9 @@
             "state": "future"
         },
         "tzcgpmqij.com": {
-            "epoch": "1552694400",
-            "expiration_date": "16-mar-2019",
-            "state": "past"
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
         },
         "tzelsvxtjvy.com": {
             "epoch": "1561420800",
@@ -25413,7 +25413,7 @@
         "ucfwicndme.com": {
             "epoch": "1552780800",
             "expiration_date": "17-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "uclftpjqdnvvz.bid": {
             "epoch": "1537488000",
