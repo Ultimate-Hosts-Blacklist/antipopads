@@ -12691,9 +12691,9 @@
             "state": "past"
         },
         "jwzuohydf.com": {
-            "epoch": "1552780800",
-            "expiration_date": "17-mar-2019",
-            "state": "past"
+            "epoch": "1584403200",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
         },
         "jxfhshgavg.bid": {
             "epoch": "1543968000",
@@ -13196,9 +13196,9 @@
             "state": "future"
         },
         "khmbjndynx.com": {
-            "epoch": "1552780800",
-            "expiration_date": "17-mar-2019",
-            "state": "past"
+            "epoch": "1584403200",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
         },
         "khpgychzfdmpm.bid": {
             "epoch": "1534809600",
@@ -13228,6 +13228,11 @@
         "kiixmhyrlawz.com": {
             "epoch": "1554508800",
             "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "kiobmbncsrwc.com": {
+            "epoch": "1584403200",
+            "expiration_date": "17-mar-2020",
             "state": "future"
         },
         "kiochlocj.bid": {
@@ -13271,8 +13276,8 @@
             "state": "past"
         },
         "kjbfpptjlhxh.com": {
-            "epoch": "1552867200",
-            "expiration_date": "18-mar-2019",
+            "epoch": "1584489600",
+            "expiration_date": "18-mar-2020",
             "state": "future"
         },
         "kjizuuuvqbcd.com": {
@@ -13828,7 +13833,7 @@
         "kuqonhmcwaiot.com": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "kuqylnamtv.bid": {
             "epoch": "1534982400",
@@ -15628,7 +15633,7 @@
         "mdagsecyvd.com": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "mddlhkzkntmmb.com": {
             "epoch": "1555372800",
