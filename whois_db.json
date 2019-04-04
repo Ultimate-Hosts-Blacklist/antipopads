@@ -3276,8 +3276,8 @@
             "state": "past"
         },
         "cmyzmrgrtyrkt.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "cnckdochd.com": {
@@ -4551,9 +4551,9 @@
             "state": "future"
         },
         "dlzksaqygxare.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "dmgexalrtsqrvx.com": {
             "epoch": "1581292800",
@@ -7146,8 +7146,8 @@
             "state": "future"
         },
         "fpnxicejwel.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "fppgjkkjq.bid": {
@@ -10326,9 +10326,9 @@
             "state": "past"
         },
         "hxcoxdyzzd.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "hxhabfjy.bid": {
             "epoch": "1541289600",
@@ -10668,6 +10668,11 @@
         "idqzpnea.com": {
             "epoch": "1574899200",
             "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "idrdmyixk.com": {
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
             "state": "future"
         },
         "ieajwbir.com": {
@@ -12181,8 +12186,8 @@
             "state": "future"
         },
         "jiyairvjgfqk.com": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
             "state": "future"
         },
         "jiycfyytg.com": {
