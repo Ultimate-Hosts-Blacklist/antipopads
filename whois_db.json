@@ -30090,6 +30090,11 @@
             "expiration_date": "04-oct-2019",
             "state": "future"
         },
+        "yaaqsdteo.com": {
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
+        },
         "yahbdmyvvmjh.com": {
             "epoch": "1586908800",
             "expiration_date": "15-apr-2020",
@@ -30113,6 +30118,11 @@
         "yckdywmihuabu.com": {
             "epoch": "1576368000",
             "expiration_date": "15-dec-2019",
+            "state": "future"
+        },
+        "ycuuzufqwsk.com": {
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "yczdebjfskegsd.com": {
@@ -30288,6 +30298,11 @@
         "ylnmzwwc.com": {
             "epoch": "1578268800",
             "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "yloidlvfhpkq.com": {
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "ymhqeelitngcr.com": {
@@ -30495,6 +30510,11 @@
             "expiration_date": "26-mar-2020",
             "state": "future"
         },
+        "yvyfyuacwz.com": {
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
+            "state": "future"
+        },
         "ywcxuagtmrawx.com": {
             "epoch": "1587772800",
             "expiration_date": "25-apr-2020",
@@ -30673,6 +30693,11 @@
         "zggnhhadif.com": {
             "epoch": "1583798400",
             "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
+        "zhlfogiy.com": {
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "zhpdtoott.com": {
@@ -31008,6 +31033,11 @@
         "zxwnolwaump.com": {
             "epoch": "1587772800",
             "expiration_date": "25-apr-2020",
+            "state": "future"
+        },
+        "zzwajufm.com": {
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         }
     }
