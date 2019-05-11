@@ -1865,9 +1865,9 @@
         "state": "future"
     },
     "bgbdzfeeoko.com": {
-        "epoch": "1557532800",
+        "epoch": 1557532800,
         "expiration_date": "11-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "bgbmtqzoc.bid": {
         "epoch": "1538438400",
