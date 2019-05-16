@@ -7640,9 +7640,9 @@
         "state": "future"
     },
     "fmbjxqvkjfmj.com": {
-        "epoch": "1557964800",
+        "epoch": 1557964800,
         "expiration_date": "16-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "fmoihhvbehopc.com": {
         "epoch": "1560384000",
@@ -9582,6 +9582,11 @@
     "gtkikiwa.com": {
         "epoch": "1576022400",
         "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "gtnmyddlf.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "gtorsoxdh.com": {
@@ -11700,9 +11705,9 @@
         "state": "future"
     },
     "ieuezabolxphga.com": {
-        "epoch": "1557964800",
+        "epoch": 1557964800,
         "expiration_date": "16-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "iewsaprgerkjny.com": {
         "epoch": "1561334400",
