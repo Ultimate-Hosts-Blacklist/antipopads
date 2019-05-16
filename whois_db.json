@@ -7364,6 +7364,11 @@
         "expiration_date": "19-apr-2020",
         "state": "future"
     },
+    "fgtdzvlydqcpus.com": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "fgvjjulaegidb.com": {
         "epoch": "1587945600",
         "expiration_date": "27-apr-2020",
@@ -28362,6 +28367,11 @@
     "ugkppchlelde.com": {
         "epoch": "1571788800",
         "expiration_date": "23-oct-2019",
+        "state": "future"
+    },
+    "ugoptxnm.com": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
         "state": "future"
     },
     "ugvcpwyplnj.bid": {
