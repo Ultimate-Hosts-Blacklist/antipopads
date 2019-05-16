@@ -3820,9 +3820,9 @@
         "state": "future"
     },
     "credbgvhijbcj.com": {
-        "epoch": 1557446400,
-        "expiration_date": "10-may-2019",
-        "state": "past"
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
     },
     "creyboif.bid": {
         "epoch": "1543968000",
@@ -4875,8 +4875,8 @@
         "state": "future"
     },
     "dlahijuwjsv.com": {
-        "epoch": "1557532800",
-        "expiration_date": "11-may-2019",
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "dlemeyrkjy.com": {
@@ -15765,9 +15765,9 @@
         "state": "future"
     },
     "lbytagcqxefsn.com": {
-        "epoch": "1557964800",
+        "epoch": 1557964800,
         "expiration_date": "16-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "lceihiuarfqbn.bid": {
         "epoch": "1535155200",
@@ -29472,6 +29472,11 @@
     "wgaycnmfz.com": {
         "epoch": "1572307200",
         "expiration_date": "29-oct-2019",
+        "state": "future"
+    },
+    "wglbucuhxxxj.com": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
         "state": "future"
     },
     "whgvyswets.com": {
