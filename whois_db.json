@@ -25685,9 +25685,9 @@
         "state": "future"
     },
     "sgeeavwmk.com": {
-        "epoch": "1557964800",
+        "epoch": 1557964800,
         "expiration_date": "16-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "sgggjaosyrxr.com": {
         "epoch": "1576108800",
