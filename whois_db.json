@@ -329,6 +329,11 @@
         "expiration_date": "06-jan-2020",
         "state": "future"
     },
+    "znbokxhkwx.com": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
     "znckkjdguw.com": {
         "epoch": 1583712000,
         "expiration_date": "09-mar-2020",
