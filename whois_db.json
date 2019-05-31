@@ -5929,6 +5929,11 @@
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
+    "vzlyapss.com": {
+        "epoch": 1569888000,
+        "expiration_date": "01-oct-2019",
+        "state": "future"
+    },
     "wcobqyeqpckkzh.com": {
         "epoch": 1582848000,
         "expiration_date": "28-feb-2020",
