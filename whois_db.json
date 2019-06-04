@@ -6509,6 +6509,11 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "oamrraft.com": {
+        "epoch": 1555113600,
+        "expiration_date": "13-apr-2019",
+        "state": "past"
+    },
     "oarqgvtkco.com": {
         "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
