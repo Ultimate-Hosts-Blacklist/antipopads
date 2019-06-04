@@ -7204,6 +7204,11 @@
         "expiration_date": "18-oct-2019",
         "state": "future"
     },
+    "ptlbzqzveii.com": {
+        "epoch": 1554249600,
+        "expiration_date": "03-apr-2019",
+        "state": "past"
+    },
     "ptrahwwg.com": {
         "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
