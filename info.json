@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 5,
-        "counter": {
-            "down": 11607,
-            "invalid": 0,
-            "tested": 16344,
-            "up": 4737
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sat Jul  6 21:32:47 2019",
-    "end_epoch": 1562448767.091663,
+    "end_datetime": "Mon Jul  8 18:55:30 2019",
+    "end_epoch": 1562612130.4682,
     "last_autosave_datetime": "Mon Jul  8 18:38:37 2019",
     "last_autosave_epoch": 1562611117.459085,
     "name": "antipopads",
     "previous_stats": {
-        "builds": 11,
-        "clean.list": 5026,
+        "builds": 6,
+        "clean.list": 5019,
         "counter": {
-            "down": 12232,
+            "down": 12313,
             "invalid": 0,
-            "tested": 17258,
-            "up": 5026
+            "tested": 17332,
+            "up": 5019
         },
-        "domains.list": 17258,
-        "volatile.list": 5026,
-        "whitelisted.list": 5026
+        "domains.list": 17332,
+        "volatile.list": 5019,
+        "whitelisted.list": 5019
     },
     "raw_link": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts",
     "start_datetime": "Mon Jul  8 16:48:10 2019",
