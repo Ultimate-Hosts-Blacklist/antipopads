@@ -1119,7 +1119,6 @@
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
-    "eppoch": 1592092800,
     "epxokmckjkj.com": {
         "epoch": 1583107200,
         "expiration_date": "02-mar-2020",
@@ -1195,7 +1194,6 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
-    "expiration_date": "14-jun-2020",
     "eyqletzkhybsef.com": {
         "epoch": 1582156800,
         "expiration_date": "20-feb-2020",
@@ -2546,6 +2544,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "jvkhhxwcnijvmf.c: {
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
     "jvkhhxwcnijvmf.com": {
         "epoch": 1599436800,
         "expiration_date": "07-sep-2020",
@@ -2859,12 +2862,7 @@
     "kvdjcnerhxzb.com": {
         "epoch": 1583884800,
         "expiration_date": "11-mar-2020",
-        "state": "future"
-    },
-    "kvirgytkit.com": {
-        "epoch": 1597795200,
-        "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state: "future"
     },
     "kvnldhrlw.com": {
         "epoch": 1582675200,
@@ -3014,6 +3012,11 @@
     "liocwxpkakrf.com": {
         "epoch": 1597104000,
         "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "ljhyotgxuyglm.com": {
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "ljjaiargqfwtzu.com": {
@@ -4452,7 +4455,7 @@
         "state": "future"
     },
     "qqablora.com": {
-        "epoch": 1594166400,
+        "epoch": 15941664,
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
@@ -4769,7 +4772,7 @@
     "rsiyppewvonkc.com": {
         "epoch": 1578268800,
         "expiration_date": "06-jan-2020",
-        "state": "future"
+        "s"state": "future"
     },
     "rstdehuopwf.com": {
         "epoch": 1593820800,
@@ -5006,7 +5009,6 @@
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
-    "state": "future",
     "sumsmoxssy.com": {
         "epoch": 1587772800,
         "expiration_date": "25-apr-2020",
