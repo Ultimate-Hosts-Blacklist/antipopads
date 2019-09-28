@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 1,
+        "builds": 2,
         "counter": {
-            "down": 2596,
+            "down": 4903,
             "invalid": 0,
-            "tested": 3718,
-            "up": 1122
+            "tested": 7010,
+            "up": 2107
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Fri Sep 20 12:19:27 2019",
     "end_epoch": 1568981967.517893,
-    "last_autosave_datetime": "Sat Sep 28 20:11:26 2019",
-    "last_autosave_epoch": 1569701486.405993,
+    "last_autosave_datetime": "Sat Sep 28 21:48:01 2019",
+    "last_autosave_epoch": 1569707281.407246,
     "name": "antipopads",
     "previous_stats": {
         "builds": 5,
