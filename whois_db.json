@@ -3004,6 +3004,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "dbktgmyjph.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "dbmysjylbpwrav.com": {
         "epoch": 1585267200,
         "expiration_date": "27-mar-2020",
@@ -3017,6 +3022,11 @@
     "dccstsamnyrjk.com": {
         "epoch": 1582329600,
         "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "dchnguasrxubf.com": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "dcjhpaexcwtc.com": {
@@ -6487,6 +6497,11 @@
     "gtlcgovlg.com": {
         "epoch": 1589760000,
         "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "gtnlyyxfhkjv.com": {
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "gtnmyddlf.com": {
@@ -12247,7 +12262,7 @@
     "muxtpvixahawy.com": {
         "epoch": 1570060800,
         "expiration_date": "03-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "mvbemeggnodty.com": {
         "epoch": 1598140800,
@@ -12887,6 +12902,11 @@
     "nmwzrcdzbrjj.com": {
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "nmywwgnnkmud.com": {
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "nndgxdunwvte.com": {
@@ -14492,7 +14512,7 @@
     "pgfxwbgema.com": {
         "epoch": 1570060800,
         "expiration_date": "03-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "pgmqzpjoauoknj.com": {
         "epoch": 1594598400,
@@ -18065,8 +18085,8 @@
         "state": "future"
     },
     "tamrczjeedauh.com": {
-        "epoch": 1569196800,
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "taoclfxgf.com": {
