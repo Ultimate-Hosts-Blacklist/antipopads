@@ -6454,6 +6454,11 @@
         "expiration_date": "25-jul-2020",
         "state": "future"
     },
+    "gvoraoonpi.com": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
     "gvtawzpydsujep.com": {
         "epoch": 1597276800,
         "expiration_date": "13-aug-2020",
