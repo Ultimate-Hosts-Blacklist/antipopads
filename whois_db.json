@@ -19820,6 +19820,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "lzowrfhqy.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
     "lzpgstae.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
