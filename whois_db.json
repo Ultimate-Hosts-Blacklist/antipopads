@@ -16830,6 +16830,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "jaavpuhxrsryk.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
     "jacmnkcusf.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
@@ -29965,6 +29970,11 @@
     "wwwmurgd.com": {
         "epoch": 1584144000,
         "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
+    "wxaeamianbg.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "wxbrdppfpr.com": {
