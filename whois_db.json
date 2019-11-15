@@ -3525,9 +3525,9 @@
         "state": "future"
     },
     "dlotljikswmvq.com": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
-        "state": "past"
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
     },
     "dlpypwmo.com": {
         "epoch": 1583193600.0,
@@ -19106,9 +19106,9 @@
         "state": "future"
     },
     "ljkmwpvahv.com": {
-        "epoch": 1573430400.0,
-        "expiration_date": "11-nov-2019",
-        "state": "past"
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
     },
     "ljrljohnoqa.com": {
         "epoch": 1568160000.0,
@@ -20150,6 +20150,11 @@
         "expiration_date": "10-aug-2020",
         "state": "future"
     },
+    "mignpaybmqkcy.com": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
     "mioxtidzcrh.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
@@ -20849,6 +20854,11 @@
     "ncsyyeabk.com": {
         "epoch": 1601683200,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "ncvperjurh.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "ncyemedcazdnol.com": {
@@ -24811,6 +24821,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "rfewgthorann.com": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
     "rfgldefouazmj.com": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
@@ -24972,9 +24987,9 @@
         "state": "future"
     },
     "rljakgkixu.com": {
-        "epoch": 1573689600,
+        "epoch": 1573689600.0,
         "expiration_date": "14-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "rlomrjxrpsev.com": {
         "epoch": 1578355200,
@@ -28407,8 +28422,8 @@
         "state": "future"
     },
     "vczprcezg.com": {
-        "epoch": 1573603200.0,
-        "expiration_date": "13-nov-2019",
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
         "state": "future"
     },
     "vdacizdywoe.com": {
