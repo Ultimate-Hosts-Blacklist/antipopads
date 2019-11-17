@@ -3657,7 +3657,7 @@
     "dpoffxqjlgt.com": {
         "epoch": 1573948800.0,
         "expiration_date": "17-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "dpoulbxouhor.com": {
         "epoch": 1592179200.0,
@@ -14750,6 +14750,11 @@
         "expiration_date": "17-sep-2019",
         "state": "past"
     },
+    "gzabsbddocwn.com": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
     "gzayyacwy.com": {
         "epoch": 1601683200,
         "expiration_date": "03-oct-2020",
@@ -17319,6 +17324,11 @@
         "epoch": 1568073600.0,
         "expiration_date": "10-sep-2019",
         "state": "past"
+    },
+    "jkxyxiwqdl.com": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
     },
     "jlehwynpwadmq.com": {
         "epoch": 1598313600.0,
