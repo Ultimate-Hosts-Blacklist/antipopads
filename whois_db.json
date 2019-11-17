@@ -17910,6 +17910,11 @@
         "expiration_date": "09-sep-2019",
         "state": "past"
     },
+    "katxkxcncwool.com": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
     "kawmxbphaj.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
@@ -28031,6 +28036,11 @@
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
+    "uqelijcu.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
     "uqihbnpqtwwzdv.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
@@ -32235,6 +32245,11 @@
     "zmogtyau.com": {
         "epoch": 1584576000,
         "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "zmpvyyey.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "zmutugjqvia.com": {
