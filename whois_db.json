@@ -2860,9 +2860,9 @@
         "state": "future"
     },
     "cukwbpne.com": {
-        "epoch": 1573948800,
+        "epoch": 1573948800.0,
         "expiration_date": "17-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "cuortwomnr.com": {
         "epoch": 1598313600.0,
@@ -3392,6 +3392,11 @@
     "dhuqolbvyla.com": {
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "diekhxpwngawme.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "dijutbdzbv.com": {
@@ -18053,7 +18058,7 @@
     "kdyfsgpa.com": {
         "epoch": 1574035200.0,
         "expiration_date": "18-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "kfozongcvn.com": {
         "epoch": 1605312000.0,
