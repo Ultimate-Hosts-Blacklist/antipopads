@@ -18486,9 +18486,9 @@
         "state": "past"
     },
     "krtdobasy.com": {
-        "epoch": 1574035200.0,
-        "expiration_date": "18-nov-2019",
-        "state": "past"
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
     },
     "krtpkaha.com": {
         "epoch": 1583280000.0,
@@ -19248,7 +19248,7 @@
     "llgvjtkg.com": {
         "epoch": 1574121600.0,
         "expiration_date": "19-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "lliumrpvj.com": {
         "epoch": 1605225600.0,
@@ -24337,9 +24337,9 @@
         "state": "future"
     },
     "qtbvatpkwxq.com": {
-        "epoch": 1574035200.0,
-        "expiration_date": "18-nov-2019",
-        "state": "past"
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
     },
     "qtgarolvaigptk.com": {
         "epoch": 1583020800.0,
