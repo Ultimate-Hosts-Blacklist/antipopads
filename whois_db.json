@@ -3382,7 +3382,7 @@
     "dhmwedckf.com": {
         "epoch": 1574121600.0,
         "expiration_date": "19-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "dhtqupvxujyfp.com": {
         "epoch": 1602979200.0,
