@@ -21496,6 +21496,11 @@
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
+    "nsxawdatuetbq.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
     "ntbftkhrsrh.com": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
