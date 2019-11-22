@@ -40,9 +40,9 @@
         "state": "future"
     },
     "abbahoxgss.com": {
-        "epoch": 1574380800,
+        "epoch": 1574380800.0,
         "expiration_date": "22-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "abfcfxfkzmiqht.com": {
         "epoch": 1602979200.0,
@@ -2080,9 +2080,9 @@
         "state": "future"
     },
     "cayqecxokz.com": {
-        "epoch": 1574294400,
+        "epoch": 1574294400.0,
         "expiration_date": "21-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "cbbsnmrwpqou.com": {
         "epoch": 1597622400,
@@ -13575,6 +13575,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "fspicbawd.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
     "fsqknqvlngde.com": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
@@ -14153,6 +14158,11 @@
     "gizgxhqqdngfh.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "gjbgesaromnb.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "gjdawsvqs.com": {
@@ -17066,8 +17076,8 @@
         "state": "future"
     },
     "jevxjcdnrd.com": {
-        "epoch": 1574294400.0,
-        "expiration_date": "21-nov-2019",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "jffdktcyr.com": {
@@ -21844,7 +21854,7 @@
     "oartozvwzv.com": {
         "epoch": 1574380800.0,
         "expiration_date": "22-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "obczphph.com": {
         "epoch": 1568246400.0,
@@ -30653,8 +30663,8 @@
         "state": "future"
     },
     "xnqfpnszqwpijd.com": {
-        "epoch": 1574294400,
-        "expiration_date": "21-nov-2019",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "xnrjtqmud.com": {
@@ -31523,9 +31533,9 @@
         "state": "future"
     },
     "ypixrvxi.com": {
-        "epoch": 1574380800,
+        "epoch": 1574380800.0,
         "expiration_date": "22-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ypksjcnrsett.com": {
         "epoch": 1595462400,
