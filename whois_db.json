@@ -587,7 +587,7 @@
     "amlcscfr.com": {
         "epoch": 1574294400.0,
         "expiration_date": "21-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "amrfscxvdvfvpa.com": {
         "epoch": 1586476800.0,
@@ -15121,8 +15121,8 @@
         "state": "past"
     },
     "hhleomgyiruth.com": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "hhlrnfmn.com": {
@@ -21337,8 +21337,8 @@
         "state": "future"
     },
     "noiaifyednjt.com": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "nojbconvtg.com": {
@@ -28522,9 +28522,9 @@
         "state": "future"
     },
     "vbqcwfleda.com": {
-        "epoch": 1574121600.0,
-        "expiration_date": "19-nov-2019",
-        "state": "past"
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
     },
     "vbuhzjnj.com": {
         "epoch": 1588291200,
