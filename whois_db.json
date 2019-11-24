@@ -40,9 +40,9 @@
         "state": "future"
     },
     "abbahoxgss.com": {
-        "epoch": 1574380800.0,
-        "expiration_date": "22-nov-2019",
-        "state": "past"
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
     },
     "abfcfxfkzmiqht.com": {
         "epoch": 1602979200.0,
@@ -1077,7 +1077,7 @@
     "azfoibmukpwz.com": {
         "epoch": 1574467200.0,
         "expiration_date": "23-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "azgmbqhlr.com": {
         "epoch": 1568937600.0,
@@ -3617,6 +3617,11 @@
     "dnrywryy.com": {
         "epoch": 1593302400,
         "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "dnyjhikistbhvg.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "dnzevkqpk.com": {
