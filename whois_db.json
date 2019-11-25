@@ -15880,6 +15880,11 @@
         "expiration_date": "11-dec-2019",
         "state": "future"
     },
+    "iccdytfvhd.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "icfgedouno.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
@@ -27892,9 +27897,9 @@
         "state": "future"
     },
     "ujpakyfu.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "ujrtwvabum.com": {
         "epoch": 1584489600.0,
@@ -30538,9 +30543,9 @@
         "state": "future"
     },
     "xghretunapafes.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "xgievxfxhy.com": {
         "epoch": 1599955200.0,
