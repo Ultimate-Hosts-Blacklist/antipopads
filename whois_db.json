@@ -23356,6 +23356,11 @@
         "expiration_date": "04-sep-2019",
         "state": "past"
     },
+    "pqftlgwzkuzsg.com": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
     "pqgslqshlj.com": {
         "epoch": 1583798400,
         "expiration_date": "10-mar-2020",
