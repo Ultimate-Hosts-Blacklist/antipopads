@@ -26407,9 +26407,9 @@
         "state": "future"
     },
     "sukgtuksypr.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "sumizxwhfsrke.com": {
         "epoch": 1590105600,
@@ -31600,6 +31600,11 @@
     "ynuyzeqtswtd.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "ynvmoxqbm.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "yodyfofkb.com": {
