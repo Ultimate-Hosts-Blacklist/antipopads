@@ -17056,9 +17056,9 @@
         "state": "future"
     },
     "jdskyjntuhea.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "jdtufqcyumvb.com": {
         "epoch": 1597190400.0,
@@ -21194,6 +21194,11 @@
     "njgogjkwlzroh.com": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
+    "njkgqdxavz.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "njmeadll.com": {
