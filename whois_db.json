@@ -22057,9 +22057,9 @@
         "state": "future"
     },
     "odukhsymyua.com": {
-        "epoch": 1574899200,
+        "epoch": 1574899200.0,
         "expiration_date": "28-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "odwsequjcyk.com": {
         "epoch": 1597622400.0,
@@ -22962,9 +22962,9 @@
         "state": "future"
     },
     "pfoohjpdbxt.com": {
-        "epoch": 1574899200,
+        "epoch": 1574899200.0,
         "expiration_date": "28-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "pfpkzjwi.com": {
         "epoch": 1588032000.0,
