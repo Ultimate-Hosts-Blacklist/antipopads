@@ -19285,6 +19285,11 @@
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
+    "lkjdwmhuqxupef.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "lkksbzcslmeefw.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
