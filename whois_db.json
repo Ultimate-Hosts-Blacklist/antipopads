@@ -3344,6 +3344,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "dfxvfkutloxnyl.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "dfyudpyceqoy.com": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
