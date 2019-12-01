@@ -15310,6 +15310,11 @@
         "expiration_date": "21-may-2020",
         "state": "future"
     },
+    "hlfjvpcpkynqco.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "hloyloppqpvnmd.com": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
@@ -25945,6 +25950,11 @@
         "epoch": 1567036800.0,
         "expiration_date": "29-aug-2019",
         "state": "past"
+    },
+    "sekusfrgojuc.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "seoaelrfdy.com": {
         "epoch": 1588377600.0,
