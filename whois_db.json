@@ -97,7 +97,7 @@
     "aclhagvngkjf.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "aclwlkyzxxhn.com": {
         "epoch": 1575849600.0,
@@ -13983,7 +13983,7 @@
     "fzrqfakeaqikwm.com": {
         "epoch": 1575331200.0,
         "expiration_date": "03-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "fzvydcgqazrr.com": {
         "epoch": 1598572800,
@@ -15866,9 +15866,9 @@
         "state": "future"
     },
     "iacexhglty.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
-        "state": "past"
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
     },
     "iadfjbrttvgn.com": {
         "epoch": 1593129600,
@@ -17333,7 +17333,7 @@
     "jimqcqsyhser.com": {
         "epoch": 1575331200.0,
         "expiration_date": "03-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "jimxaqrpqbxldt.com": {
         "epoch": 1583193600.0,
