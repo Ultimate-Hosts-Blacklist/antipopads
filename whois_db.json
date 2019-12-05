@@ -1669,6 +1669,11 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "bnstnhto.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "boaawvdg.com": {
         "epoch": 1586908800,
         "expiration_date": "15-apr-2020",
@@ -21769,6 +21774,11 @@
     "nupgypwxcv.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "nusptbgwdcc.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "nutlekuainya.com": {
