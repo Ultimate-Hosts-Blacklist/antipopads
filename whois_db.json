@@ -24251,6 +24251,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "qjotiimmb.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
     "qjrlcrkhnj.com": {
         "epoch": 1603497600,
         "expiration_date": "24-oct-2020",
