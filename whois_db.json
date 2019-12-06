@@ -3439,6 +3439,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "dhxwczetwdkt.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "diekhxpwngawme.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
@@ -28998,9 +29003,9 @@
         "state": "future"
     },
     "vglpukrekfij.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
-        "state": "past"
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
     },
     "vgodvvcwrshk.com": {
         "epoch": 1598918400.0,
