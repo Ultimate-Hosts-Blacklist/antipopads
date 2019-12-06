@@ -19425,6 +19425,11 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "lllgavbgnmcbf.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "llpdtbmowsg.com": {
         "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
@@ -30555,6 +30560,11 @@
     "wzwetfprojnyx.com": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "wzzrquhn.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "xafkdsxnwinmj.com": {
