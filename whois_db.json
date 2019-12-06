@@ -20531,8 +20531,8 @@
         "state": "future"
     },
     "moginhstnxswt.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "mogqlceldpwbxe.com": {
@@ -32865,6 +32865,11 @@
     "zppkpktskuf.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "zpqejgbya.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "zpwqnicvzi.com": {
