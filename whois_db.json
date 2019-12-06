@@ -29002,6 +29002,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "vfxkeagns.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "vgbvsduys.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
