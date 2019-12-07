@@ -2709,6 +2709,11 @@
         "expiration_date": "10-sep-2019",
         "state": "past"
     },
+    "cppnznmorh.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "cpzxmrne.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
