@@ -27062,8 +27062,8 @@
         "state": "future"
     },
     "tgkcxtvryb.com": {
-        "epoch": 1575331200,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "tgugqkjvinvgv.com": {
@@ -33090,6 +33090,11 @@
     "ztylfmoxqnafl.com": {
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "ztzilyso.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "zudlddyzgogsh.com": {
