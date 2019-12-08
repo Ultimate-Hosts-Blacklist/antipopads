@@ -15755,6 +15755,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "hvduwoozla.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "hvdyyojh.com": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
@@ -21654,7 +21659,7 @@
     "nrcrbfqa.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "nrdaixdlt.com": {
         "epoch": 1599782400,
@@ -28277,9 +28282,9 @@
         "state": "future"
     },
     "umaglven.com": {
-        "epoch": 1575763200,
+        "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "umgbvaurcx.com": {
         "epoch": 1600387200.0,
