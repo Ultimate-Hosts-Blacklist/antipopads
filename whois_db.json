@@ -18988,7 +18988,7 @@
     "lajpmujdntg.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "lalywprgzl.com": {
         "epoch": 1593475200.0,
@@ -26037,9 +26037,9 @@
         "state": "future"
     },
     "sdeadbqsjam.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "sdgvzdksjbl.com": {
         "epoch": 1591228800,
@@ -28522,8 +28522,8 @@
         "state": "future"
     },
     "uqmkkfaoqnnmlx.com": {
-        "epoch": 1575676800,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "uqouplgwlmeqt.com": {
