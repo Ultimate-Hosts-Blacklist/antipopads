@@ -25406,6 +25406,11 @@
         "expiration_date": "12-dec-2019",
         "state": "future"
     },
+    "rkpecade.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "rkueifizvmwbi.com": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
