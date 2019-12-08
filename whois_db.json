@@ -27832,9 +27832,9 @@
         "state": "future"
     },
     "uamgajydnv.com": {
-        "epoch": 1575763200,
+        "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "uaneklzqph.com": {
         "epoch": 1576281600.0,
