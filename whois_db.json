@@ -100,8 +100,8 @@
         "state": "future"
     },
     "aclwlkyzxxhn.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "acrsgxeah.com": {
@@ -17704,6 +17704,11 @@
         "epoch": 1567814400.0,
         "expiration_date": "07-sep-2019",
         "state": "past"
+    },
+    "jprddctf.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "jpvmwnnwuzo.com": {
         "epoch": 1586908800.0,
