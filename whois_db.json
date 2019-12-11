@@ -13266,8 +13266,8 @@
         "state": "future"
     },
     "fjszsffyfihqlg.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "fjwagiuqmeymw.com": {
@@ -15750,6 +15750,11 @@
         "expiration_date": "24-apr-2020",
         "state": "future"
     },
+    "htunjeuczuox.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "hubahczah.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
@@ -16018,7 +16023,7 @@
     "icahllwjc.com": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "iccdytfvhd.com": {
         "epoch": 1606176000.0,
@@ -18241,8 +18246,8 @@
         "state": "past"
     },
     "kcodndvh.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "kcpntbycuswz.com": {
@@ -21681,6 +21686,11 @@
         "expiration_date": "06-sep-2019",
         "state": "past"
     },
+    "nqwkzvqwa.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
     "nqxdnmsp.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -22204,6 +22214,11 @@
     "ocnjgcedhp.com": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "ocnvgwuppfstkj.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "ocphuciylacb.com": {
@@ -29063,9 +29078,9 @@
         "state": "future"
     },
     "vewpwrqebmwu.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "vexuchkhuin.com": {
         "epoch": 1599350400,
