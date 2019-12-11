@@ -12412,7 +12412,7 @@
     "emrumkgmdmdq.com": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "emxztiidh.com": {
         "epoch": 1587945600.0,
@@ -18608,6 +18608,11 @@
     "kodnkhqvbxpc.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "koesvqwwpmvb.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "kohiquor.com": {
