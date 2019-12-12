@@ -1494,6 +1494,11 @@
         "expiration_date": "07-may-2020",
         "state": "future"
     },
+    "bikeacasqaxbs.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "bikuetrh.com": {
         "epoch": 1567123200.0,
         "expiration_date": "30-aug-2019",
@@ -16071,9 +16076,9 @@
         "state": "future"
     },
     "icahllwjc.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "iccdytfvhd.com": {
         "epoch": 1606176000.0,
@@ -30610,6 +30615,11 @@
     "wrxivlclw.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "wsemqlxmmhp.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "wsowkqnxs.com": {
