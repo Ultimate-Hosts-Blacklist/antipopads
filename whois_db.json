@@ -12680,6 +12680,11 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "eslkcmhn.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "essjetuhfuo.com": {
         "epoch": 1591660800,
         "expiration_date": "09-jun-2020",
@@ -13203,6 +13208,11 @@
     "fgbmbyqmdgr.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "fgjasshw.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "fgnzizhe.com": {
@@ -30335,7 +30345,7 @@
     "wiklweefcuorh.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "wilrjvvmmplp.com": {
         "epoch": 1595030400.0,
