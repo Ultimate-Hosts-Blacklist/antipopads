@@ -14751,9 +14751,9 @@
         "state": "future"
     },
     "gtkikiwa.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "gtlcgovlg.com": {
         "epoch": 1589760000,
@@ -31855,6 +31855,11 @@
     "ydoksieuml.com": {
         "epoch": 1602806400,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "ydtqlmsvocjp.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "ydutvhtw.com": {
