@@ -14273,7 +14273,7 @@
     "gguvdsglzjyca.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ggxvxrmrjitg.com": {
         "epoch": 1585267200,
@@ -29317,6 +29317,11 @@
         "expiration_date": "03-dec-2020",
         "state": "future"
     },
+    "vgnlhfdkmcdc.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "vgodvvcwrshk.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
@@ -31013,9 +31018,9 @@
         "state": "future"
     },
     "xctiblmetgwr.com": {
-        "epoch": 1576108800,
+        "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "xcttavcu.com": {
         "epoch": 1603411200,
