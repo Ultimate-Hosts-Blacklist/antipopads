@@ -17905,6 +17905,11 @@
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
+    "jrvcwxubg.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "jrvtmfxkkl.com": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
@@ -17918,6 +17923,11 @@
     "jtgckwsacymph.com": {
         "epoch": 1593388800,
         "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "jtikwyeper.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "jtmfmeexjet.bid": {
@@ -26337,8 +26347,8 @@
         "state": "future"
     },
     "seuojaesymeriv.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "sexilbbpnc.com": {
