@@ -18631,9 +18631,9 @@
         "state": "future"
     },
     "kmkdkefa.com": {
-        "epoch": 1576195200,
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "kmpcmafvqf.com": {
         "epoch": 1581638400.0,
@@ -30038,9 +30038,9 @@
         "state": "future"
     },
     "vxrpmslex.com": {
-        "epoch": 1576195200,
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "vxyqsxeo.com": {
         "epoch": 1603065600.0,
@@ -31205,6 +31205,11 @@
     "xfmjleuaqgnuvv.com": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "xfncbrqilpitmc.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "xfqifppx.com": {
