@@ -26422,8 +26422,8 @@
         "state": "future"
     },
     "sgggjaosyrxr.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "sgidkvwd.com": {
@@ -32448,9 +32448,9 @@
         "state": "future"
     },
     "yrtyflmurngv.com": {
-        "epoch": 1576108800,
+        "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ysaloykchjyxg.com": {
         "epoch": 1586131200,
