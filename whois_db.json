@@ -15085,6 +15085,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "hbhgheovqz.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "hbkajyvrus.com": {
         "epoch": 1582502400.0,
         "expiration_date": "24-feb-2020",
@@ -31428,9 +31433,9 @@
         "state": "future"
     },
     "xmrchaqjwqyvz.com": {
-        "epoch": 1576195200,
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "xmwxurmgmly.com": {
         "epoch": 1606176000.0,
