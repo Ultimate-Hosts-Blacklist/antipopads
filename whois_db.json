@@ -27151,6 +27151,11 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "szdfteyb.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "szlkqxlkcz.com": {
         "epoch": 1567814400.0,
         "expiration_date": "07-sep-2019",
@@ -31983,8 +31988,8 @@
         "state": "future"
     },
     "ydwjfuhuiesrhp.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "ydzakntxe.com": {
