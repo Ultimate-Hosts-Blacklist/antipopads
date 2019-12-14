@@ -18780,6 +18780,11 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "kpflkjpsdgnc.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "kpgcnqxccssu.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
@@ -30885,7 +30890,7 @@
     "wvvftburvtyz.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "wwbzfppvhiebl.com": {
         "epoch": 1592524800.0,
