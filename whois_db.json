@@ -19150,6 +19150,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "kzmleuhgqifvzy.com": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
     "labdwkqyavb.com": {
         "epoch": 1568073600.0,
         "expiration_date": "10-sep-2019",
@@ -32373,9 +32378,9 @@
         "state": "future"
     },
     "ynuyzeqtswtd.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "ynvmoxqbm.com": {
         "epoch": 1606089600.0,
