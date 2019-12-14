@@ -14841,8 +14841,8 @@
         "state": "future"
     },
     "gvhqnlti.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "gvnqfiwzronbq.com": {
@@ -18656,9 +18656,9 @@
         "state": "future"
     },
     "kmkdkefa.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
-        "state": "past"
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
     },
     "kmpcmafvqf.com": {
         "epoch": 1581638400.0,
