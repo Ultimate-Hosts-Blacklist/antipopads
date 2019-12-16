@@ -1309,6 +1309,11 @@
         "expiration_date": "22-nov-2020",
         "state": "future"
     },
+    "beqkxrcgjfnc.com": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
     "bewtqjkrfo.com": {
         "epoch": 1595894400,
         "expiration_date": "28-jul-2020",
@@ -28954,6 +28959,11 @@
     "uswgkadyika.com": {
         "epoch": 1588550400,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "usxobxnmmaix.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "uthifuehb.com": {
