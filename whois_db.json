@@ -23052,9 +23052,9 @@
         "state": "future"
     },
     "oulxdvvpmfcd.com": {
-        "epoch": 1576540800,
+        "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ounyrilukncbj.com": {
         "epoch": 1580428800.0,
