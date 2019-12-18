@@ -3179,6 +3179,11 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "czvfrzvnsltwco.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
     "czzzwuvvc.com": {
         "epoch": 1604102400,
         "expiration_date": "31-oct-2020",
@@ -29354,6 +29359,11 @@
     "vcvapkiua.com": {
         "epoch": 1578268800,
         "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "vcvefwzdxhysh.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "vcwrigdrnh.com": {
