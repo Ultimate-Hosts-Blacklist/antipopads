@@ -12790,6 +12790,11 @@
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
+    "eukjktmw.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
     "euktoywjpdxpdh.com": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
@@ -23384,6 +23389,11 @@
     "perfcjlensdl.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "perymiynf.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "petsarlaaafru.com": {
