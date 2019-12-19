@@ -19803,7 +19803,7 @@
     "lmcoiiwpguaorp.com": {
         "epoch": 1576713600.0,
         "expiration_date": "19-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "lmepqfsazb.com": {
         "epoch": 1587945600,
@@ -24024,6 +24024,11 @@
     "pskajrxx.com": {
         "epoch": 1593561600,
         "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "psmxlnkovf.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "psnkrefrfh.com": {
@@ -33748,8 +33753,8 @@
         "state": "future"
     },
     "ztiqalyrbfsnl.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "ztsletmncez.com": {
