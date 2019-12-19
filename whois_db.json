@@ -515,9 +515,9 @@
         "state": "future"
     },
     "alikuvxxwy.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "aljsuubo.com": {
         "epoch": 1603065600,
@@ -18300,6 +18300,11 @@
         "expiration_date": "09-sep-2019",
         "state": "past"
     },
+    "kapuaawase.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "katxkxcncwool.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
@@ -23072,9 +23077,9 @@
         "state": "future"
     },
     "oulxdvvpmfcd.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
-        "state": "past"
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
     },
     "ounyrilukncbj.com": {
         "epoch": 1580428800.0,
@@ -24294,6 +24299,11 @@
     "qbeoyasaiz.com": {
         "epoch": 1604102400,
         "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "qbfzmwamsid.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "qbjnwjtbfrxceq.com": {
@@ -33290,6 +33300,11 @@
     "zjefjxjukiasd.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "zjiktkmjyo.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "zjkdrqtjowihn.com": {
