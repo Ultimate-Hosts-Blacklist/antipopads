@@ -32212,6 +32212,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "ydbsysbzp.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
     "ydfntydegmdbk.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
