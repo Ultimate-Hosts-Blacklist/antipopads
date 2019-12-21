@@ -12580,9 +12580,9 @@
         "state": "past"
     },
     "eozbwwxniksmb.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
-        "state": "past"
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
     },
     "eozegbfpvhasf.com": {
         "epoch": 1600300800.0,
@@ -18613,6 +18613,11 @@
     "khprspkouotscd.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
+    "khqonyigsdf.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "khwojmneehfl.com": {
