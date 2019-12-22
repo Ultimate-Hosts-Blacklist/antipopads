@@ -15310,6 +15310,11 @@
         "expiration_date": "28-sep-2019",
         "state": "past"
     },
+    "heawzlvivkakly.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
     "heeevykjhujfy.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
@@ -28669,6 +28674,11 @@
     "ufrbfvelweoy.com": {
         "epoch": 1587254400.0,
         "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "ufsomlskkso.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "ufugfbtpp.com": {
