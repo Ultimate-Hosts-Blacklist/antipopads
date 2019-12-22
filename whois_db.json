@@ -1854,6 +1854,11 @@
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
+    "bsoswwiwzs.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
     "bsqbdbtftyu.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
