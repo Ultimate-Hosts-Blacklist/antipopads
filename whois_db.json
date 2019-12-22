@@ -18586,9 +18586,9 @@
         "state": "past"
     },
     "kgqlrcjlrx.com": {
-        "epoch": 1576972800,
+        "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "kgvzesfexmenm.com": {
         "epoch": 1607299200.0,
