@@ -4364,6 +4364,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "eduyzcjsnoeokj.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
     "edxosrcvydn.com": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
