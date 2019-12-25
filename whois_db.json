@@ -13813,7 +13813,7 @@
     "frxohovv.com": {
         "epoch": 1577232000.0,
         "expiration_date": "25-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "fryxaknn.com": {
         "epoch": 1593993600.0,
@@ -14518,6 +14518,11 @@
     "gjproyrwjv.com": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
+    "gjqrpgdr.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "gjriyqsfrnvuv.com": {
