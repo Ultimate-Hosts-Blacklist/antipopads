@@ -2674,6 +2674,11 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "cmelqqmywpmf.com": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
     "cmhomlaipa.com": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
