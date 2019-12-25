@@ -14915,6 +14915,11 @@
         "expiration_date": "06-oct-2020",
         "state": "future"
     },
+    "guamokqekridi.com": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
     "gudlhvxz.com": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
@@ -30475,6 +30480,11 @@
     "vysgpewbyfbiob.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "vyykulowdu.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "vzbbzzasjtn.com": {
