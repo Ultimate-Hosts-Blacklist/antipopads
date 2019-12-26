@@ -22717,9 +22717,9 @@
         "state": "future"
     },
     "ocfsmefzzarkmo.com": {
-        "epoch": 1577318400,
+        "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ocixtsnyxxvyaw.com": {
         "epoch": 1577318400.0,
@@ -25944,7 +25944,7 @@
     "rfpnlsbbu.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "rfrsnqen.com": {
         "epoch": 1582848000,
@@ -27749,7 +27749,7 @@
     "tcwcsaddht.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "tczvikamowfjte.com": {
         "epoch": 1587081600.0,
