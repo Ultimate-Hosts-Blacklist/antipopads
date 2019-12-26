@@ -1989,6 +1989,11 @@
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
+    "bvzdfhpyz.com": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
     "bwjteztqdlg.com": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
