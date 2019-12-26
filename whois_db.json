@@ -1742,7 +1742,7 @@
     "boizgpgrxvokd.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bonxsqstn.com": {
         "epoch": 1569024000.0,
@@ -15795,6 +15795,11 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "hpmyhrljkbl.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "hpsthxyqxqae.com": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
@@ -26077,9 +26082,9 @@
         "state": "future"
     },
     "rmhdjambba.com": {
-        "epoch": 1577318400,
+        "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "rmjwdosemtg.com": {
         "epoch": 1567209600.0,
