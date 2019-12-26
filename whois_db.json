@@ -12462,7 +12462,7 @@
     "ejoyjumnsft.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ejwxbwzrhihtp.com": {
         "epoch": 1587340800.0,
@@ -20626,9 +20626,9 @@
         "state": "future"
     },
     "mascqybw.com": {
-        "epoch": 1577318400,
+        "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "maudfkdsuyp.com": {
         "epoch": 1593907200.0,
@@ -22654,6 +22654,11 @@
     "oatvyenmekc.com": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
+    "oazbtactg.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "obczphph.com": {
