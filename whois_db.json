@@ -23161,6 +23161,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "onfericaq.com": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
     "onocjgpq.com": {
         "epoch": 1601596800,
         "expiration_date": "02-oct-2020",
@@ -30245,6 +30250,11 @@
     "vpgwdlayctn.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "vpjtrmeyq.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "vplvywqxsm.com": {
