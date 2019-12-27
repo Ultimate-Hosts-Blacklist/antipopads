@@ -275,8 +275,8 @@
         "state": "future"
     },
     "afzkqajwcbub.com": {
-        "epoch": 1577318400,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "agdvemtd.com": {
@@ -30275,6 +30275,11 @@
     "vouzgwau.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "vowqesvqjwxc.com": {
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "voxnrvzwy.com": {
