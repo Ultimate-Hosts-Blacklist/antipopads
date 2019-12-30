@@ -21731,6 +21731,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "nafgiaui.com": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
     "nahixtmnmpcz.com": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
