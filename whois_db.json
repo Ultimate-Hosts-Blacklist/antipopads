@@ -15220,6 +15220,11 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "gyojplgn.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "gyycgkchjtimu.com": {
         "epoch": 1568678400.0,
         "expiration_date": "17-sep-2019",
@@ -25594,6 +25599,11 @@
     "qurhdjkms.com": {
         "epoch": 1584057600,
         "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "quxveblgxgsi.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "quyxxofx.com": {
