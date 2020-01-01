@@ -3824,6 +3824,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "dnkwgzmuxv.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "dnpehliwdvjkp.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
