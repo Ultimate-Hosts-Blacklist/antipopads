@@ -639,6 +639,11 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "anovbqzmit.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "anpwsppugpu.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
@@ -13356,9 +13361,9 @@
         "state": "future"
     },
     "fepzygektdt.com": {
-        "epoch": 1577923200,
+        "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "fevgukzwvjam.com": {
         "epoch": 1587254400.0,
