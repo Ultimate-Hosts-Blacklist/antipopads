@@ -27742,9 +27742,9 @@
         "state": "future"
     },
     "sxedqvvaxxj.com": {
-        "epoch": 1577923200,
+        "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sxgmppxfts.com": {
         "epoch": 1578355200,
