@@ -14088,7 +14088,7 @@
     "fvenxjtzuaxu.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "fveugxikrgrbsh.com": {
         "epoch": 1568592000.0,
@@ -32205,6 +32205,11 @@
     "xkyicwujsmepsh.com": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "xkzrbaexyrds.com": {
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "xlbbhdarc.com": {
