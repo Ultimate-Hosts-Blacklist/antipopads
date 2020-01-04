@@ -17665,6 +17665,11 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "jeksffryglas.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "jenaowzhtbi.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -20218,6 +20223,11 @@
     "lnwqvhcqw.com": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "lnyhnpwjviyn.com": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "lnyypjocad.com": {
