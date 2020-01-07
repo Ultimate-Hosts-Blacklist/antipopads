@@ -33503,9 +33503,9 @@
         "state": "future"
     },
     "yttvnnvklf.com": {
-        "epoch": 1578268800,
+        "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ytxuslppbj.com": {
         "epoch": 1600128000,
@@ -34173,9 +34173,9 @@
         "state": "future"
     },
     "zkfjgzonjvg.com": {
-        "epoch": 1578268800,
+        "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "zkgyibosyh.com": {
         "epoch": 1593561600.0,
