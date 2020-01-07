@@ -2315,9 +2315,9 @@
         "state": "future"
     },
     "cdookjqkri.com": {
-        "epoch": 1578355200,
+        "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cdqweuwvagrbd.com": {
         "epoch": 1592611200,
@@ -14821,9 +14821,9 @@
         "state": "future"
     },
     "gmwqmjkggg.com": {
-        "epoch": 1578355200,
+        "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "gmxetthnzmqo.com": {
         "epoch": 1582761600,
@@ -30082,8 +30082,8 @@
         "state": "future"
     },
     "vcvapkiua.com": {
-        "epoch": 1578268800,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "vcvefwzdxhysh.com": {
