@@ -16050,6 +16050,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "hqzceymmcwsvd.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "hraowdzgs.com": {
         "epoch": 1578268800,
         "expiration_date": "06-jan-2020",
@@ -31810,6 +31815,11 @@
     "wyjdunwcqnetus.com": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
+    "wyjtscdjfcmsy.com": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "wykskkpplgfi.com": {
