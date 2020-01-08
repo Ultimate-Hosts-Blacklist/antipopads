@@ -18945,6 +18945,11 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "kgghxooarlnz.com": {
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
     "kgobpqziy.com": {
         "epoch": 1569196800.0,
         "expiration_date": "23-sep-2019",
@@ -22567,8 +22572,8 @@
         "state": "future"
     },
     "nqzmumesrbiy.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "nrcrbfqa.com": {
