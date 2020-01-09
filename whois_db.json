@@ -18660,6 +18660,11 @@
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
+    "jzedpmpcmsk.com": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
     "jzeigwioirde.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
@@ -19599,6 +19604,11 @@
         "epoch": 1566691200.0,
         "expiration_date": "25-aug-2019",
         "state": "past"
+    },
+    "kwbwzapql.com": {
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
+        "state": "future"
     },
     "kwcrryneebg.com": {
         "epoch": 1603929600.0,
