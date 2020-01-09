@@ -16486,9 +16486,9 @@
         "state": "future"
     },
     "ibfsream.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     },
     "ibfueyttemsefi.com": {
         "epoch": 1568246400.0,
@@ -16696,9 +16696,9 @@
         "state": "future"
     },
     "iflndvke.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     },
     "ifnwfachxk.com": {
         "epoch": 1608854400.0,
@@ -19565,6 +19565,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "kvhwrotf.com": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
     "kvhxckkd.com": {
         "epoch": 1569110400.0,
         "expiration_date": "22-sep-2019",
@@ -19691,8 +19696,8 @@
         "state": "future"
     },
     "kyelvsyayysa.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "kygozmlrr.com": {
@@ -29212,9 +29217,9 @@
         "state": "future"
     },
     "ucflpjvvyaww.bid": {
-        "epoch": 1578528000,
+        "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "uchiytqiuir.com": {
         "epoch": 1586304000,
