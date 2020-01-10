@@ -14460,6 +14460,11 @@
         "expiration_date": "22-sep-2019",
         "state": "past"
     },
+    "gchhswgagb.com": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
     "gclcehwfvl.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
