@@ -14165,6 +14165,11 @@
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
+    "fuszkweba.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
     "fuwgbbkktwbu.com": {
         "epoch": 1568937600.0,
         "expiration_date": "20-sep-2019",
