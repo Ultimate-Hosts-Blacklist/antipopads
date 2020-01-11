@@ -824,6 +824,11 @@
         "expiration_date": "12-sep-2019",
         "state": "past"
     },
+    "arzcwgdzsed.com": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
     "asdtwttky.com": {
         "epoch": 1568332800.0,
         "expiration_date": "13-sep-2019",
@@ -29129,6 +29134,11 @@
     "tyccaweownne.com": {
         "epoch": 1609804800.0,
         "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
+    "tyjyrkcrv.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "tyllfqbmny.com": {
