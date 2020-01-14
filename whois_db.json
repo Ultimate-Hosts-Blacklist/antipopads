@@ -13210,6 +13210,11 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "exvrvcnlfc.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
     "exyubuwtwmepqi.com": {
         "epoch": 1594598400,
         "expiration_date": "13-jul-2020",
@@ -34890,6 +34895,11 @@
     "zlmbspplqvftur.com": {
         "epoch": 1598054400,
         "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "zmbuidget.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "zmkihizd.com": {
