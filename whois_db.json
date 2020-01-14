@@ -28541,6 +28541,11 @@
         "expiration_date": "05-sep-2019",
         "state": "past"
     },
+    "tfbqvqclg.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
     "tfhuupltipcg.com": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
