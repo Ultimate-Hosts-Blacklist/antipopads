@@ -13810,6 +13810,11 @@
         "expiration_date": "17-dec-2020",
         "state": "future"
     },
+    "fltfwrhpv.com": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
     "flvuylhsyg.com": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
