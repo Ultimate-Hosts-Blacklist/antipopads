@@ -375,8 +375,8 @@
         "state": "future"
     },
     "ahuosyyqprt.com": {
-        "epoch": 1578960000,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "ahwzvnqc.com": {
@@ -35465,6 +35465,11 @@
     "zsikmzoehqw.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "zsjgmnmtgm.com": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "zsjnxkur.com": {
