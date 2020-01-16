@@ -16330,6 +16330,11 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "hrklcreflssza.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
     "hrmqqrvqaxvzb.com": {
         "epoch": 1595030400,
         "expiration_date": "18-jul-2020",
@@ -19358,6 +19363,11 @@
     "kklzztog.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "kknhirncxal.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "kkscoephxrum.com": {
