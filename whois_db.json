@@ -23556,6 +23556,11 @@
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
+    "ocphuulbithyyd.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
     "ocrwyhamhfpfc.com": {
         "epoch": 1603670400,
         "expiration_date": "26-oct-2020",
@@ -26194,6 +26199,11 @@
     "qrnpjjkwjqbl.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
+    "qrpwaluz.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "qrwixhlz.com": {
