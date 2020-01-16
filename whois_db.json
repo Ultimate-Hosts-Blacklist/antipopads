@@ -2079,6 +2079,11 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "bwaguyek.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
+    },
     "bwjteztqdlg.com": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -13108,6 +13113,11 @@
     "eugxcnqw.com": {
         "epoch": 1582156800,
         "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "eujjcfegnqfa.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "eukjktmw.com": {
