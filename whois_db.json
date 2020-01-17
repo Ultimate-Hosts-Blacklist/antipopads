@@ -14396,9 +14396,9 @@
         "state": "future"
     },
     "fvtwyjev.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "fvwfkfzhha.com": {
         "epoch": 1591747200,
@@ -14998,6 +14998,11 @@
     "glfqztlzebamqw.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "glgcclcyz.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "glmaamwyjkx.com": {
@@ -20171,8 +20176,8 @@
         "state": "future"
     },
     "lcolevwciuwj.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "lcpcjnsu.com": {
@@ -27592,8 +27597,8 @@
         "state": "future"
     },
     "rzmrzylebgq.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "rzuwelgm.com": {
