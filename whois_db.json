@@ -2049,6 +2049,11 @@
         "expiration_date": "05-sep-2019",
         "state": "past"
     },
+    "buxmllzyoxnr.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
     "bvjexgnagddtmu.com": {
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
@@ -30284,6 +30289,11 @@
     "uldwcpscwzkis.com": {
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "uleakkpuzaea.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "ullariwoi.com": {
