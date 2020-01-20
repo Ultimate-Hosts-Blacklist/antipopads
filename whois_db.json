@@ -1144,6 +1144,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "aysydyqpkg.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
     "ayyslqwrmoygf.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -2762,6 +2767,11 @@
     "ckopycdb.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "ckotfhgn.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "ckxqtppyzqbll.com": {
