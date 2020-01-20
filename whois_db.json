@@ -27286,6 +27286,11 @@
         "expiration_date": "16-jul-2020",
         "state": "future"
     },
+    "rpuuwsjcu.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
     "rpzcwgrpbkltp.com": {
         "epoch": 1569715200.0,
         "expiration_date": "29-sep-2019",
