@@ -2329,6 +2329,11 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "cahvxjmcl.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "caljqsml.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
@@ -26519,6 +26524,11 @@
     "qjotiimmb.com": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "qjqfcsgnjk.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "qjrlcrkhnj.com": {
