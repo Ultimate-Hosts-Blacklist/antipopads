@@ -25921,6 +25921,11 @@
         "expiration_date": "12-sep-2019",
         "state": "past"
     },
+    "pwondjwwgqahw.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "pwrjjvjtvmr.com": {
         "epoch": 1591315200,
         "expiration_date": "05-jun-2020",
@@ -31853,8 +31858,8 @@
         "state": "future"
     },
     "veedjtyvhn.com": {
-        "epoch": 1580342400,
-        "expiration_date": "30-jan-2020",
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "veehdmymwvvexv.com": {
