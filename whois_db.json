@@ -759,6 +759,11 @@
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
+    "apiafubb.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
     "apiryrkxkhil.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -4407,6 +4412,11 @@
     "dujbubzvrdw.com": {
         "epoch": 1602720000,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "dulrlifipkbac.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "durowueoaxjhd.com": {
