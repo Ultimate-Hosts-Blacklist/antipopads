@@ -19410,6 +19410,11 @@
         "expiration_date": "09-sep-2019",
         "state": "past"
     },
+    "kapphtskno.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
     "kapuaawase.com": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
@@ -22794,6 +22799,11 @@
     "myqzicfxbkpk.com": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
+    "myuffcmf.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "myzsyljf.com": {
@@ -34780,6 +34790,11 @@
     "ydoksieuml.com": {
         "epoch": 1602806400,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "ydsnqaekjr.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "ydtqlmsvocjp.com": {
