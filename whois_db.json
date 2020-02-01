@@ -23144,7 +23144,7 @@
     "nelfmgxcysd.bid": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "nepyhecawr.com": {
         "epoch": 1610841600.0,
@@ -23644,6 +23644,11 @@
     "nqzmumesrbiy.com": {
         "epoch": 1610064000.0,
         "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
+    "nrbgvvpll.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "nrcrbfqa.com": {
