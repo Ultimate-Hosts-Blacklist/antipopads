@@ -21795,6 +21795,11 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "lwprdsbqpej.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "lwsxrphion.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
@@ -22503,6 +22508,11 @@
     "mnbfujorh.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "mnfiiphpwzyncr.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "mnnsjudnfgalyx.com": {
@@ -33403,8 +33413,8 @@
         "state": "future"
     },
     "wiezvhxoqhnn.com": {
-        "epoch": 1580428800,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "wiffqhum.com": {
