@@ -28061,6 +28061,11 @@
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
+    "rimezvsto.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "riozwajocltca.com": {
         "epoch": 1611705600.0,
         "expiration_date": "27-jan-2021",
@@ -36895,6 +36900,11 @@
     "zlfgedpuxrbpgm.com": {
         "epoch": 1601942400,
         "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "zlfzeuvk.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "zlhscyahjbaq.com": {
