@@ -29601,6 +29601,11 @@
         "expiration_date": "03-feb-2021",
         "state": "future"
     },
+    "ssucvdbxxlibn.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "ssypntfmi.com": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
@@ -36155,6 +36160,11 @@
     "yvdzdkiov.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "yviqapajvhsx.com": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
         "state": "future"
     },
     "yvisvreih.com": {
