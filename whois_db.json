@@ -26926,6 +26926,11 @@
         "expiration_date": "17-sep-2019",
         "state": "past"
     },
+    "qjnofrpbv.com": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
     "qjokrqhidpki.com": {
         "epoch": 1604448000,
         "expiration_date": "04-nov-2020",
