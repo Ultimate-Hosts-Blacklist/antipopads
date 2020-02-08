@@ -259,6 +259,11 @@
         "expiration_date": "15-feb-2020",
         "state": "future"
     },
+    "afaeqxnbylkxp.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "afcxojqr.com": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
@@ -732,7 +737,7 @@
     "aorzglux.com": {
         "epoch": 1581120000.0,
         "expiration_date": "08-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "aoshrcptugsjd.com": {
         "epoch": 1582243200.0,
