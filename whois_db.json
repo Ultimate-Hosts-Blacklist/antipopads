@@ -33317,6 +33317,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "waavnpkn.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "wakogzmgjqucs.com": {
         "epoch": 1600300800,
         "expiration_date": "17-sep-2020",
