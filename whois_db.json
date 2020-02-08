@@ -12984,6 +12984,11 @@
         "expiration_date": "21-sep-2019",
         "state": "past"
     },
+    "elexgfzjpmo.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "elfnwncr.com": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
