@@ -1814,6 +1814,11 @@
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
+    "blueioabj.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "blwfqlmhi.com": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
@@ -22491,8 +22496,8 @@
         "state": "past"
     },
     "mgziozplbkzv.com": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "mhfivsdhbpfgk.com": {
