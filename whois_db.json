@@ -14766,9 +14766,9 @@
         "state": "future"
     },
     "fvsdvxjpxi.com": {
-        "epoch": 1581206400,
+        "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "fvsniyfeyjvg.com": {
         "epoch": 1600473600,
@@ -19461,8 +19461,8 @@
         "state": "future"
     },
     "jwbroglwc.com": {
-        "epoch": 1581120000.0,
-        "expiration_date": "08-feb-2020",
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "jwgsepzz.com": {
@@ -33653,9 +33653,9 @@
         "state": "future"
     },
     "wfjdmkjetpbgv.com": {
-        "epoch": 1581206400,
+        "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "wfmarlexic.com": {
         "epoch": 1606694400.0,
