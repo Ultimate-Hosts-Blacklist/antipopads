@@ -5,8 +5,8 @@
         "state": "future"
     },
     "aagmbroxruno.com": {
-        "epoch": 1581206400,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "aaitudxr.com": {
@@ -29814,7 +29814,7 @@
     "stvayyokjvxnl.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "sudolljkjzxdfc.com": {
         "epoch": 1603670400,
