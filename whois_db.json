@@ -24247,9 +24247,9 @@
         "state": "future"
     },
     "nvjjquyylqicp.com": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
-        "state": "past"
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
     },
     "nvloygrnfe.com": {
         "epoch": 1598745600.0,
@@ -25006,6 +25006,11 @@
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
+    "olzwogofebrfh.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
     "omakfhugexq.com": {
         "epoch": 1567987200.0,
         "expiration_date": "09-sep-2019",
@@ -25309,6 +25314,11 @@
     "ovmeaxabvfor.com": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
+    "ovscyvcucd.com": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "owajgovpu.com": {
