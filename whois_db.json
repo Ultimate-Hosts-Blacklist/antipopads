@@ -4320,9 +4320,9 @@
         "state": "future"
     },
     "dpwrhdzeqw.com": {
-        "epoch": 1581206400,
+        "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "dpwsvrkmfxrt.com": {
         "epoch": 1607472000.0,
@@ -25777,9 +25777,9 @@
         "state": "future"
     },
     "phhigelii.com": {
-        "epoch": 1581292800,
+        "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "phiambczsg.com": {
         "epoch": 1594684800,
