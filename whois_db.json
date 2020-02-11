@@ -17906,8 +17906,8 @@
         "state": "future"
     },
     "iozpujvmlojzhp.com": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "iozsmwjezobro.com": {
@@ -33715,6 +33715,11 @@
     "wepyyttx.com": {
         "epoch": 1601596800,
         "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "weymsohsafjs.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "wfcvhhmumb.com": {
