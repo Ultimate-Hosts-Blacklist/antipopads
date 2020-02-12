@@ -13698,7 +13698,7 @@
     "ezqldmevi.com": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "ezrutveckpuly.com": {
         "epoch": 1587427200.0,
@@ -35250,6 +35250,11 @@
     "xrapmkrsqa.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "xrbvsiyyr.com": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "xrexjmudy.com": {
