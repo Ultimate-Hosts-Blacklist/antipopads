@@ -14995,6 +14995,11 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "fyoqltiztjbdd.com": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
     "fyphnmoz.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
@@ -19143,6 +19148,11 @@
     "jlehwynpwadmq.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "jlemhcmft.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "jlgtjteei.com": {
