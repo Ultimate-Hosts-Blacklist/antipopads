@@ -1804,6 +1804,11 @@
         "expiration_date": "06-jan-2021",
         "state": "future"
     },
+    "bkovnfkkfo.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
     "bksbcawzviwcw.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
