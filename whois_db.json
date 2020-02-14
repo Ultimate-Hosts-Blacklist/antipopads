@@ -21240,6 +21240,11 @@
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
+    "letdvoltm.com": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
     "lfahycetwt.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
