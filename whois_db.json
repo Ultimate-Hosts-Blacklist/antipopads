@@ -18850,6 +18850,11 @@
         "expiration_date": "16-sep-2019",
         "state": "past"
     },
+    "jfmtvybvze.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
     "jfnafbcysy.com": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
