@@ -14745,6 +14745,11 @@
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
+    "ftvpqgmbovwzot.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
     "ftvwoljibdwd.com": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
@@ -15118,6 +15123,11 @@
     "gazukakdlk.com": {
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
+    "gbdzznirg.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "gbtoxwxmahhctv.com": {
