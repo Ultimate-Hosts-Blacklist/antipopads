@@ -25889,7 +25889,7 @@
     "pcbfhotfyuyg.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "pccpyjngw.com": {
         "epoch": 1599436800.0,
@@ -32007,8 +32007,8 @@
         "state": "future"
     },
     "uigruwtql.com": {
-        "epoch": 1581724800,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "uiiswaeojpfee.com": {
@@ -36305,6 +36305,11 @@
     "yhmbwgolijyac.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "yhwrgbcjwup.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "yhyxopmgofz.com": {
