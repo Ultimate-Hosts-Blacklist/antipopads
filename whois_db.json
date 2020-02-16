@@ -1122,7 +1122,7 @@
     "axcqasdiots.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "axeclbthp.com": {
         "epoch": 1595376000,
@@ -13865,6 +13865,11 @@
         "expiration_date": "12-jan-2021",
         "state": "future"
     },
+    "fcfhjuyanmlvgb.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "fcihwhsiukz.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
@@ -21833,6 +21838,11 @@
     "lptnfhmvnd.com": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
+    "lpwwerdeef.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "lpwzjhkuwbe.com": {
