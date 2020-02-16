@@ -4282,7 +4282,7 @@
     "dnzevkqpk.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "dnzwjlbknhe.com": {
         "epoch": 1599091200.0,
@@ -16796,8 +16796,8 @@
         "state": "future"
     },
     "hntxitqhto.com": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "hofraxopw.com": {
@@ -19818,6 +19818,11 @@
     "jzllgntkazui.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "jzmjxblwnozjyt.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "jzohcwnovrk.com": {
