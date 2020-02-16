@@ -21090,6 +21090,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "lbnwrunyfupe.com": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
     "lbsohfnkqgxo.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
@@ -33803,8 +33808,8 @@
         "state": "future"
     },
     "vxzudzbjvtegu.com": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "vyagpffxvs.com": {
