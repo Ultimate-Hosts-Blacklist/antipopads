@@ -604,6 +604,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "alwkvwdxqojyce.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "alyhlhyhaetbk.com": {
         "epoch": 1593820800,
         "expiration_date": "04-jul-2020",
@@ -4570,9 +4575,9 @@
         "state": "future"
     },
     "dsyxresmht.com": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
-        "state": "past"
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
     },
     "dtgwjxeymdlri.com": {
         "epoch": 1584835200.0,
@@ -17003,7 +17008,7 @@
     "hqwlpexoywbc.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "hqyenmzgxk.com": {
         "epoch": 1583280000.0,
@@ -20451,9 +20456,9 @@
         "state": "future"
     },
     "kmpcmafvqf.com": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
-        "state": "past"
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
     },
     "kmpxgnnoom.com": {
         "epoch": 1603497600.0,
@@ -27379,7 +27384,7 @@
     "qjlgyiuesk.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "qjmkidiwbndolx.com": {
         "epoch": 1568678400.0,
@@ -31089,6 +31094,11 @@
     "tnacywet.com": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "tnbyhwawsh.com": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
         "state": "future"
     },
     "tncexvzu.com": {
@@ -37130,6 +37140,11 @@
     "yzetmrsww.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "yzexonvknhw.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "yzoyfmwr.com": {
