@@ -3109,6 +3109,11 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "cnrvmcderv.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
     "cntvxymwesggem.com": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -28425,6 +28430,11 @@
         "epoch": 1569628800.0,
         "expiration_date": "28-sep-2019",
         "state": "past"
+    },
+    "reounzbqylugud.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
     },
     "rereghpaz.com": {
         "epoch": 1569369600.0,
