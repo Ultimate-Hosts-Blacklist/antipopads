@@ -4959,6 +4959,11 @@
         "expiration_date": "26-sep-2019",
         "state": "past"
     },
+    "ebcpfsslht.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "ebfkifnjs.com": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
@@ -36915,6 +36920,11 @@
     "ysgeuarbxfttib.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "yslvynerwkdls.com": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "ysmbdnavqsbcl.com": {
