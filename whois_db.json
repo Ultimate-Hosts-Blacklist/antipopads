@@ -14365,6 +14365,11 @@
         "expiration_date": "14-may-2020",
         "state": "future"
     },
+    "fmecsdelxmeks.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "fmgdzqpcaliqs.com": {
         "epoch": 1604448000,
         "expiration_date": "04-nov-2020",
@@ -27472,9 +27477,9 @@
         "state": "future"
     },
     "qjlgyiuesk.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     },
     "qjmkidiwbndolx.com": {
         "epoch": 1568678400.0,
