@@ -16610,6 +16610,11 @@
         "expiration_date": "11-apr-2020",
         "state": "future"
     },
+    "hgtdroan.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
     "hgukeujwsfgwrq.com": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
@@ -18578,6 +18583,11 @@
     "ixueiomwi.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "ixunmkbyxvif.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "ixuytaxnu.com": {
@@ -36958,9 +36968,9 @@
         "state": "future"
     },
     "yrpjklwly.com": {
-        "epoch": 1582070400,
+        "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "yrrvmnimwztv.com": {
         "epoch": 1604102400.0,
