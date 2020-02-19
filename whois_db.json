@@ -16050,6 +16050,11 @@
         "expiration_date": "12-nov-2020",
         "state": "future"
     },
+    "gueqndbe.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "gugemfslzh.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
@@ -22903,7 +22908,7 @@
     "mguqjbjgs.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "mgxjvidt.com": {
         "epoch": 1567382400.0,
@@ -35070,6 +35075,11 @@
     "wxbrdppfpr.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "wxcwtehxsfri.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "wxiwegwffls.com": {
