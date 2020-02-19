@@ -19548,7 +19548,7 @@
     "jqqlucchmbxnn.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "jqrbypfxzvkep.com": {
         "epoch": 1604102400,
@@ -23141,9 +23141,9 @@
         "state": "future"
     },
     "mogqlceldpwbxe.com": {
-        "epoch": 1582070400,
+        "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "mohqurakhwvf.com": {
         "epoch": 1598659200.0,
