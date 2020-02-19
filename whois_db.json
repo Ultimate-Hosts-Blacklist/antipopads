@@ -25417,9 +25417,9 @@
         "state": "future"
     },
     "olrznxrgkym.com": {
-        "epoch": 1582070400,
+        "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "olthlikechgq.com": {
         "epoch": 1586649600.0,
@@ -37958,9 +37958,9 @@
         "state": "future"
     },
     "zomsfhgj.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     },
     "zotjktpk.com": {
         "epoch": 1587945600,
