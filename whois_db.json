@@ -15620,6 +15620,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "gkrvcunjoacvc.com": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
     "gkumodsmcmffdv.com": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
@@ -33612,6 +33617,11 @@
         "expiration_date": "23-nov-2020",
         "state": "future"
     },
+    "vpfcvagfrmy.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
     "vpgwdlayctn.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
@@ -36693,9 +36703,9 @@
         "state": "future"
     },
     "ynlvwynnsstalh.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     },
     "ynoiezey.com": {
         "epoch": 1586563200.0,
