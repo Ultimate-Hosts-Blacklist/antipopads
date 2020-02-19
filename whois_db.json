@@ -1387,7 +1387,7 @@
     "bcajjtbzmdrl.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "bclizbwet.com": {
         "epoch": 1590019200,
@@ -31366,6 +31366,11 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "tqddgnqsrya.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "tqguvxunwvk.com": {
         "epoch": 1610496000.0,
         "expiration_date": "13-jan-2021",
@@ -37508,8 +37513,8 @@
         "state": "future"
     },
     "zcjxeitlmnuq.com": {
-        "epoch": 1582070400,
-        "expiration_date": "19-feb-2020",
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "zckpaeifoq.com": {
