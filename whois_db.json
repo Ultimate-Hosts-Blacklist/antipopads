@@ -15713,7 +15713,7 @@
     "gmqczpcyzjeen.com": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "gmquualzdmqtxp.com": {
         "epoch": 1601769600.0,
@@ -17468,7 +17468,7 @@
     "iasodjsbjcq.com": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "iatwyqgvpq.com": {
         "epoch": 1567900800.0,
@@ -29665,6 +29665,11 @@
         "epoch": 1567036800.0,
         "expiration_date": "29-aug-2019",
         "state": "past"
+    },
+    "seclctpsih.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
     },
     "sekusfrgojuc.com": {
         "epoch": 1606694400.0,
