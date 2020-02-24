@@ -1440,8 +1440,8 @@
         "state": "future"
     },
     "bcqrmuwbvxi.com": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "bcvrczvqlm.com": {
@@ -38703,9 +38703,9 @@
         "state": "future"
     },
     "zwpaujzg.com": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
-        "state": "past"
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "state": "future"
     },
     "zwprxzbnzxc.com": {
         "epoch": 1598659200.0,
