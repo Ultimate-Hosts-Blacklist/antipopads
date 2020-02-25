@@ -17596,8 +17596,8 @@
         "state": "future"
     },
     "iafqqcsw.com": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
         "state": "future"
     },
     "iapurlkukrwd.com": {
@@ -20471,9 +20471,9 @@
         "state": "future"
     },
     "kgdglkxy.com": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
-        "state": "past"
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
     },
     "kgghxooarlnz.com": {
         "epoch": 1609891200.0,
