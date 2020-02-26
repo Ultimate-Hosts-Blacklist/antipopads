@@ -2129,6 +2129,11 @@
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
+    "brlfycvtbo.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "brloygpasa.com": {
         "epoch": 1568851200.0,
         "expiration_date": "19-sep-2019",
@@ -26056,6 +26061,11 @@
         "expiration_date": "31-jan-2021",
         "state": "future"
     },
+    "ouqlhdajsaq.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "ouuktjcoh.com": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
@@ -32127,9 +32137,9 @@
         "state": "future"
     },
     "txwdabikzvw.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
-        "state": "past"
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
     },
     "txwfpcfdgepzmp.com": {
         "epoch": 1604966400.0,
