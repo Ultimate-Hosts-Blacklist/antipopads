@@ -2870,8 +2870,8 @@
         "state": "future"
     },
     "cgociipdf.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "cgrvnpkwuytts.com": {
@@ -38125,7 +38125,7 @@
     "zfoeiywwiqo.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "zfptnwcwyl.com": {
         "epoch": 1613433600.0,
