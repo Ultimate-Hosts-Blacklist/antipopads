@@ -2715,9 +2715,9 @@
         "state": "future"
     },
     "cdyiipzo.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
-        "state": "past"
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
     },
     "cdyygbzihdh.com": {
         "epoch": 1601337600.0,
@@ -17051,9 +17051,9 @@
         "state": "past"
     },
     "hmgozryqbc.com": {
-        "epoch": 1582761600,
+        "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "hmjtutipevtmg.com": {
         "epoch": 1585612800,
@@ -23881,9 +23881,9 @@
         "state": "future"
     },
     "mvyctyji.com": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
-        "state": "past"
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
     },
     "mvyutamcykv.com": {
         "epoch": 1593820800.0,
