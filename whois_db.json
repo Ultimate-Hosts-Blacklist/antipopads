@@ -18246,8 +18246,8 @@
         "state": "future"
     },
     "imevdywafhro.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "imgkcxjlrlqf.com": {
@@ -36690,7 +36690,7 @@
     "xxqriuedmqzs.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "xxxbyhxp.com": {
         "epoch": 1611187200.0,
