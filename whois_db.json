@@ -1375,8 +1375,8 @@
         "state": "future"
     },
     "banuhqxbc.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "bardogjvsa.com": {
@@ -13550,6 +13550,11 @@
         "expiration_date": "30-jan-2021",
         "state": "future"
     },
+    "erbabjmdu.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
     "erbjahuyn.com": {
         "epoch": 1599523200,
         "expiration_date": "08-sep-2020",
@@ -21536,9 +21541,9 @@
         "state": "future"
     },
     "lburmovcjefv.com": {
-        "epoch": 1582761600,
+        "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "lbushibdda.com": {
         "epoch": 1604793600.0,
@@ -36168,8 +36173,8 @@
         "state": "future"
     },
     "xjjfgxdfpr.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "xjqbftcstq.com": {
