@@ -26874,7 +26874,7 @@
     "plzjcnyxcdl.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "pmdgwnsgucy.com": {
         "epoch": 1585008000.0,
@@ -33532,8 +33532,8 @@
         "state": "future"
     },
     "vaslssynz.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "vaygzgvc.com": {
