@@ -1324,6 +1324,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "aznuqxmji.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "azrjdlvlsxihbd.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -3435,8 +3440,8 @@
         "state": "future"
     },
     "csouqeeviwo.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "cspyozjbwb.com": {
@@ -13230,8 +13235,8 @@
         "state": "future"
     },
     "eknfrwtxsde.com": {
-        "epoch": 1582588800,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "ekuuarqe.com": {
@@ -19063,7 +19068,7 @@
     "jcsisvtb.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "jcxghdlrrmyy.com": {
         "epoch": 1593561600,
@@ -26122,8 +26127,8 @@
         "state": "future"
     },
     "ovgepsxx.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "oviwtvswp.com": {
@@ -32344,7 +32349,7 @@
     "ubjnuclsgxu.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "ubmoipypwf.com": {
         "epoch": 1599609600.0,
@@ -33224,7 +33229,7 @@
     "uthifuehb.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "utiiamqdsku.com": {
         "epoch": 1614038400.0,
@@ -33474,7 +33479,7 @@
     "uzvuhhyymmkc.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "uzxbwsnhjlt.com": {
         "epoch": 1597104000,
