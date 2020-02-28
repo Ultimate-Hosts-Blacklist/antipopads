@@ -2897,7 +2897,7 @@
     "cgnfyfer.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "cgociipdf.com": {
         "epoch": 1614211200.0,
@@ -38748,8 +38748,8 @@
         "state": "future"
     },
     "zqeskyeg.com": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "zqmxzjrhchg.com": {
