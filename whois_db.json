@@ -1474,6 +1474,11 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "bcvxpffzmkqf.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "bcxronvqkwe.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
