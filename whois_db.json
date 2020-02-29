@@ -422,7 +422,7 @@
     "ahuivddkvrrebo.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "ahuosyyqprt.com": {
         "epoch": 1610582400.0,
@@ -20075,6 +20075,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "jwmwtcmexc.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "jwofadcwpocm.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
@@ -32042,8 +32047,8 @@
         "state": "future"
     },
     "ttdtuwbxgyveg.com": {
-        "epoch": 1582848000,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "ttegjzxzxyetf.com": {
