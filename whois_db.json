@@ -3975,9 +3975,9 @@
         "state": "past"
     },
     "ddbnikwub.com": {
-        "epoch": 1582848000,
+        "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "dddgndcqajr.com": {
         "epoch": 1591920000,
@@ -19013,7 +19013,7 @@
     "jacmnkcusf.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "jaihowgr.com": {
         "epoch": 1604880000.0,
