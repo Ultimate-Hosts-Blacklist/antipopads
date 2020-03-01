@@ -22366,8 +22366,8 @@
         "state": "future"
     },
     "lpbuaqfgwkzrep.com": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "lpbyadpvf.com": {
@@ -33404,7 +33404,7 @@
     "utvxgpmcnaq.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "utxatnjs.com": {
         "epoch": 1602979200.0,
