@@ -19021,9 +19021,9 @@
         "state": "future"
     },
     "jacmnkcusf.com": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "jaihowgr.com": {
         "epoch": 1604880000.0,
@@ -26617,9 +26617,9 @@
         "state": "future"
     },
     "pewgnvqixnhvij.com": {
-        "epoch": 1583107200,
+        "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "pfcjhjogq.com": {
         "epoch": 1614384000.0,
