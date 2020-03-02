@@ -1467,7 +1467,7 @@
     "bcobmmozfan.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bcqrmuwbvxi.com": {
         "epoch": 1614038400.0,
@@ -2900,8 +2900,8 @@
         "state": "future"
     },
     "cglpmszvpzzxj.com": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "cglqqjxaaowb.com": {
@@ -16483,7 +16483,7 @@
     "gynzvwhup.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "gyojplgn.com": {
         "epoch": 1609372800.0,
@@ -33514,7 +33514,7 @@
     "uxkkltrrxlowzo.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "uxlkqeiez.com": {
         "epoch": 1600128000.0,
