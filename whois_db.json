@@ -27951,6 +27951,11 @@
         "expiration_date": "08-sep-2019",
         "state": "past"
     },
+    "qhdanxdyeuzdio.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "qhoosovyj.com": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
