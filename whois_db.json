@@ -2762,7 +2762,7 @@
     "cekptlucf.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "cekzdbewgnzu.com": {
         "epoch": 1595376000,
@@ -20416,8 +20416,8 @@
         "state": "future"
     },
     "kbkvptlxijafb.com": {
-        "epoch": 1583020800,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "kbmwlbwwwp.com": {
@@ -24742,8 +24742,8 @@
         "state": "future"
     },
     "nnoxqfmbdv.com": {
-        "epoch": 1583020800,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "nnpiggtivf.com": {
