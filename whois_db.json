@@ -22836,9 +22836,9 @@
         "state": "past"
     },
     "lxzwknybfvycxr.com": {
-        "epoch": 1583107200,
+        "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "lyaaikspui.com": {
         "epoch": 1610496000.0,
@@ -29127,8 +29127,8 @@
         "state": "past"
     },
     "refatxhcuu.com": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "regqrfuvncqcm.com": {
