@@ -1037,7 +1037,7 @@
     "atrcoikdyagv.com": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "atvbrhljmsor.com": {
         "epoch": 1614297600.0,
@@ -2512,7 +2512,7 @@
     "byxlivaqzo.com": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bzctqprddwhj.com": {
         "epoch": 1596931200.0,
