@@ -3004,6 +3004,11 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "chofezrj.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
     "chqspuonctkgz.com": {
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
@@ -3030,9 +3035,9 @@
         "state": "past"
     },
     "cifwsaufnalvh.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "cimcshjoue.com": {
         "epoch": 1598054400.0,
