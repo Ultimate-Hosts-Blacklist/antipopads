@@ -157,7 +157,7 @@
     "acwyoynw.com": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "adakgpoi.com": {
         "epoch": 1587513600.0,
@@ -877,7 +877,7 @@
     "aqotbmnzra.com": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "aqrglffxw.com": {
         "epoch": 1614729600.0,
@@ -2777,7 +2777,7 @@
     "cdzifdzftkmfof.com": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "cedcdoqkrjabs.com": {
         "epoch": 1604361600.0,
