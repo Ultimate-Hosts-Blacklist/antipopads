@@ -2547,7 +2547,7 @@
     "bzkmfzoxqmau.com": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bzotzfcbhomw.com": {
         "epoch": 1568505600.0,
@@ -2693,6 +2693,11 @@
         "epoch": 1568505600.0,
         "expiration_date": "15-sep-2019",
         "state": "past"
+    },
+    "ccrkqqnxmnwlm.com": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
+        "state": "future"
     },
     "ccyttdkwntyhx.com": {
         "epoch": 1609545600.0,
@@ -3467,7 +3472,7 @@
     "crxhbchbd.com": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "crykaxliilz.com": {
         "epoch": 1585267200.0,
