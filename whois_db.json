@@ -349,6 +349,11 @@
         "expiration_date": "03-sep-2019",
         "state": "past"
     },
+    "aghchnfzt.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
     "agqguxbm.com": {
         "epoch": 1567900800.0,
         "expiration_date": "08-sep-2019",
@@ -1442,7 +1447,7 @@
     "bbillwowlfur.com": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bbitetuncmwfjd.com": {
         "epoch": 1592092800.0,
