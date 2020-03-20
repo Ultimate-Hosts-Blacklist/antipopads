@@ -1129,6 +1129,11 @@
         "expiration_date": "17-nov-2020",
         "state": "future"
     },
+    "avmftuama.com": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
     "avoljljeif.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
