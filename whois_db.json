@@ -1704,6 +1704,11 @@
         "expiration_date": "26-feb-2021",
         "state": "future"
     },
+    "bgkxbknajdn.com": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
     "bglnzzsgigbto.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
@@ -2682,6 +2687,11 @@
     "cbdjzemui.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
+    "cbeyywbfm.com": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "cbgujxjlp.com": {
