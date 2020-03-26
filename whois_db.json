@@ -220,9 +220,9 @@
         "state": "future"
     },
     "aeeefzfuk.com": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
-        "state": "past"
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
     },
     "aefvxtue.com": {
         "epoch": 1588291200.0,
@@ -352,6 +352,11 @@
     "aghchnfzt.com": {
         "epoch": 1616112000.0,
         "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "agiuvdbcxdirh.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "agqguxbm.com": {
