@@ -1265,8 +1265,8 @@
         "state": "past"
     },
     "axsczaklngkxx.com": {
-        "epoch": 1585612800.0,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "axvabgnr.com": {
@@ -1915,9 +1915,9 @@
         "state": "future"
     },
     "bjshimgqbc.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
-        "state": "past"
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
     },
     "bjuodbdjluix.com": {
         "epoch": 1612137600.0,
