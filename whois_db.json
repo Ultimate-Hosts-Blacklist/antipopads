@@ -3269,6 +3269,11 @@
         "expiration_date": "16-mar-2021",
         "state": "future"
     },
+    "clfxjrlui.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
     "clgyhwaoh.com": {
         "epoch": 1567814400.0,
         "expiration_date": "07-sep-2019",
