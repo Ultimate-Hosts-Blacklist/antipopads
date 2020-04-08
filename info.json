@@ -20,6 +20,8 @@
     "last_autosave_datetime": "2020-03-03T15:45:30.646547",
     "last_autosave_epoch": 1583244439.733641,
     "name": "antipopads",
+    "link": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts",
+    "issue_link": "https://github.com/Yhonay/antipopads/issues/new",
     "previous_stats": {
         "builds": 42,
         "clean.list": 6465,
