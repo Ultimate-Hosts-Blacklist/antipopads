@@ -2052,7 +2052,7 @@
     "bmichkohfqtnvq.com": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "bmjpxyrpiyq.com": {
         "epoch": 1603152000.0,
@@ -2352,7 +2352,7 @@
     "btgovcuviqor.com": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "btgxicdivmtv.com": {
         "epoch": 1617926400.0,
