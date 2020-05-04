@@ -4567,7 +4567,7 @@
     "dillweqbducwi.com": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "dipsbbygv.com": {
         "epoch": 1609977600.0,
@@ -18061,8 +18061,8 @@
         "state": "future"
     },
     "hpwsosviqyjem.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "hpwzlfjpa.com": {
@@ -20860,6 +20860,11 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "jphlsnzlxdz.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
     "jpllzuuvku.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
@@ -23066,8 +23071,8 @@
         "state": "future"
     },
     "lgjboylszpij.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "lgjqgatg.com": {
@@ -32622,7 +32627,7 @@
         "state": "future"
     },
     "smpbzsjpk.com": {
-        "epoch": 1603670400,
+        "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
@@ -34049,6 +34054,11 @@
     "tqbmcmttzid.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "tqcxtxglt.com": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "tqdarrhactqc.com": {
@@ -35522,8 +35532,8 @@
         "state": "future"
     },
     "usfmamdapvmfs.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "usjguyybhhtjos.com": {
@@ -35669,6 +35679,11 @@
     "uvniygdwmoojfm.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "uvokouvtrr.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "uvomthuqsqx.com": {
