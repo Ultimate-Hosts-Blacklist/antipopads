@@ -14366,8 +14366,8 @@
         "state": "past"
     },
     "ewrdeqrktgcu.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "ewvugujfhi.com": {
@@ -14611,9 +14611,9 @@
         "state": "future"
     },
     "fbhfbgtj.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "fbhgryvzlthvh.com": {
         "epoch": 1614729600.0,
@@ -26062,8 +26062,8 @@
         "state": "future"
     },
     "nlujbqmtgv.com": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "nlyqwlyykvjl.com": {
@@ -27109,7 +27109,7 @@
     "oezgivtasc.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ofbapmmo.com": {
         "epoch": 1613865600.0,
@@ -29082,7 +29082,7 @@
         "state": "past"
     },
     "pwekxhwrgpfr.com": {
-        "epoch": 1597276800,
+        "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
@@ -33617,8 +33617,8 @@
         "state": "future"
     },
     "tgugqkjvinvgv.com": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "tgujinopirjgnn.com": {
@@ -40472,6 +40472,11 @@
         "expiration_date": "28-jan-2021",
         "state": "future"
     },
+    "yvussztn.com": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
     "yvvxjkzi.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
@@ -40960,6 +40965,11 @@
     "zeokfeyraxls.com": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
+    "zeqtblok.com": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "zestzqhrwsvwcq.com": {
