@@ -2415,9 +2415,9 @@
         "state": "future"
     },
     "btovopyov.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "btrdlsehltu.com": {
         "epoch": 1610409600.0,
@@ -4262,7 +4262,7 @@
     "dcqhbqwlcukxu.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "dcqthcwm.com": {
         "epoch": 1610668800.0,
@@ -14846,9 +14846,9 @@
         "state": "future"
     },
     "ffpnlrnmfyeqx.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "ffqpdpezdmnpb.com": {
         "epoch": 1609632000.0,
@@ -17511,8 +17511,8 @@
         "state": "future"
     },
     "hdwkcfqzxhvx.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "hdxfyoziizy.com": {
@@ -21118,6 +21118,11 @@
     "juwtdcraiiihb.com": {
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
+    "juzdqtmyo.com": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "jvcswgskvw.com": {
@@ -24786,8 +24791,8 @@
         "state": "future"
     },
     "mkzbpsiml.com": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "mlehvwpk.com": {
@@ -37700,7 +37705,7 @@
     "wlszodcfwqk.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "wlvjwquv.com": {
         "epoch": 1613001600.0,
