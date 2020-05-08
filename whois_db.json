@@ -27389,7 +27389,7 @@
     "okvfijgdmqton.bid": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "okvidihqc.com": {
         "epoch": 1601596800.0,
