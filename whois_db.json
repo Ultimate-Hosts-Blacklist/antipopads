@@ -24623,7 +24623,7 @@
     "mgouoirpayddk.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "mgpejafvxxn.com": {
         "epoch": 1607385600.0,
@@ -41095,7 +41095,7 @@
     "zfvrrodxfb.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "zgcplfvjpixarg.com": {
         "epoch": 1595462400.0,
