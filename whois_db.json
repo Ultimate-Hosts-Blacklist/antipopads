@@ -18253,7 +18253,7 @@
     "hsxftwpltcmil.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hsydzoapohcvbz.com": {
         "epoch": 1613088000.0,
@@ -37275,7 +37275,7 @@
     "wbufuclb.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "wbxzrxarmzyx.com": {
         "epoch": 1591747200.0,
