@@ -1382,7 +1382,7 @@
     "ayyslqwrmoygf.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "azcvjaninfa.com": {
         "epoch": 1612396800.0,
@@ -23893,7 +23893,7 @@
     "ltjvgpxg.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ltnkbvcm.com": {
         "epoch": 1603411200.0,
@@ -32236,6 +32236,11 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "sfawiner.com": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
     "sffmctrnimk.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
@@ -40385,7 +40390,7 @@
     "ysqhjwanlbhmt.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ysrjmfaqm.com": {
         "epoch": 1591920000.0,
