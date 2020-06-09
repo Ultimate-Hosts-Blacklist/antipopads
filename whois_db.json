@@ -1807,7 +1807,7 @@
     "bgvexbybxxbcao.com": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bgvfceqpqzx.com": {
         "epoch": 1597622400.0,
@@ -16281,8 +16281,8 @@
         "state": "future"
     },
     "gfeaegaepsgp.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "gffupsrgds.com": {
@@ -23153,7 +23153,7 @@
     "lhltebxyuzjt.com": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "lhtekmhy.com": {
         "epoch": 1583193600.0,
