@@ -1532,7 +1532,7 @@
     "bbitetuncmwfjd.com": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bbmptlckxgi.com": {
         "epoch": 1592611200.0,
@@ -35594,7 +35594,7 @@
     "usrvgxowmn.com": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "usshjrket.com": {
         "epoch": 1597449600.0,
