@@ -22503,7 +22503,7 @@
     "kvflzevaaco.com": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "kvhnsbkhxhlgkv.com": {
         "epoch": 1603497600.0,
@@ -29514,6 +29514,11 @@
     "qeobhjit.com": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
+    "qexegqtytk.bid": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "qezcdxxskinzi.com": {
