@@ -570,8 +570,8 @@
         "state": "future"
     },
     "akbeyfcu.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "akcdinzvcenhjh.com": {
@@ -35592,9 +35592,9 @@
         "state": "future"
     },
     "usrvgxowmn.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
-        "state": "past"
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
     },
     "usshjrket.com": {
         "epoch": 1597449600.0,
@@ -36835,7 +36835,7 @@
     "vsoebgfizoqbiv.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "vsqswbgpgwc.com": {
         "epoch": 1611100800.0,
@@ -41353,9 +41353,9 @@
         "state": "future"
     },
     "zlkrsqad.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
-        "state": "past"
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
     },
     "zllanqoglad.com": {
         "epoch": 1616112000.0,
