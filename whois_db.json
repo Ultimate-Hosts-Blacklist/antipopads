@@ -19998,7 +19998,7 @@
     "jaaqcdrpmyju.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "jaavpuhxrsryk.com": {
         "epoch": 1605398400.0,
@@ -20691,9 +20691,9 @@
         "state": "future"
     },
     "jlkadizug.com": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "jlkqurysdsw.com": {
         "epoch": 1617840000.0,
@@ -20991,8 +20991,8 @@
         "state": "future"
     },
     "jrikmexrknmxy.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "jrkuzeyfiztvos.com": {
