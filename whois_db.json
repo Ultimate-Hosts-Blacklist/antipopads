@@ -21953,7 +21953,7 @@
     "kkscoephxrum.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "kksoyysmpp.com": {
         "epoch": 1569715200.0,
@@ -31609,7 +31609,7 @@
     "rsgazdyuycbm.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "rsguboxyb.com": {
         "epoch": 1584144000.0,
