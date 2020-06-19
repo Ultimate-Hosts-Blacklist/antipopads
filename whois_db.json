@@ -4762,7 +4762,7 @@
     "dmiqfxlnf.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "dmkadnohjoqh.com": {
         "epoch": 1567814400.0,
@@ -16498,7 +16498,7 @@
     "gjrstyulnbf.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "gjrzirxxkbw.com": {
         "epoch": 1592438400.0,
