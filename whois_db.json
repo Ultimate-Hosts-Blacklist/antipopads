@@ -4455,9 +4455,9 @@
         "state": "future"
     },
     "dgeggjwyhkrr.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "dgfufcaxzdzenb.com": {
         "epoch": 1616716800.0,
@@ -22275,6 +22275,11 @@
         "expiration_date": "22-mar-2021",
         "state": "future"
     },
+    "kqkheakqrh.bid": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "kqohskoysgxx.com": {
         "epoch": 1568160000.0,
         "expiration_date": "11-sep-2019",
@@ -22941,9 +22946,9 @@
         "state": "future"
     },
     "lduusuiclvw.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "ldvfvwkjtacrfm.com": {
         "epoch": 1624233600.0,
@@ -34437,9 +34442,9 @@
         "state": "future"
     },
     "tvvnxcwqwzv.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "tvvozxml.com": {
         "epoch": 1613001600.0,
