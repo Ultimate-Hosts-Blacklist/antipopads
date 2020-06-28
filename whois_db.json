@@ -32314,7 +32314,7 @@
     "sfmnafrufk.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "sfmzbrdtse.com": {
         "epoch": 1614729600.0,
@@ -33084,7 +33084,7 @@
     "suewgrsq.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "sufzmohljbgw.com": {
         "epoch": 1620604800.0,
@@ -36978,8 +36978,8 @@
         "state": "future"
     },
     "vvbmvooy.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "vvbvubdvfzihb.com": {
