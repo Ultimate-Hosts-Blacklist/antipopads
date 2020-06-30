@@ -3247,7 +3247,7 @@
     "ciwbezny.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cixvlpbnceh.com": {
         "epoch": 1609113600.0,
@@ -40545,7 +40545,7 @@
     "yvdzdkiov.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "yviqapajvhsx.com": {
         "epoch": 1612569600.0,
