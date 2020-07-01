@@ -3517,7 +3517,7 @@
     "cnutjhszkjse.com": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "coaincltxhw.com": {
         "epoch": 1621900800.0,
@@ -33124,7 +33124,7 @@
     "sutdpikbwpvi.com": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "svbfcmumrj.com": {
         "epoch": 1595116800.0,
@@ -41320,7 +41320,7 @@
     "zkgyibosyh.com": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "zkmyaizgc.com": {
         "epoch": 1619308800.0,
