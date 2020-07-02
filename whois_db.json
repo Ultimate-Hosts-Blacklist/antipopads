@@ -25894,7 +25894,7 @@
     "ngmhnamtzgzabg.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ngmpuognxgs.com": {
         "epoch": 1593648000.0,
@@ -31174,7 +31174,7 @@
     "rgwaskums.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "rgyuvwsiuw.com": {
         "epoch": 1601769600.0,
