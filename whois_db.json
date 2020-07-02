@@ -2007,7 +2007,7 @@
     "bkedsknecp.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bkembwdgujzp.com": {
         "epoch": 1618790400.0,
@@ -2372,7 +2372,7 @@
     "bsqbdbtftyu.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bsrmcmvdoeyzib.com": {
         "epoch": 1603238400.0,
@@ -19618,7 +19618,7 @@
     "isrecblqmlzi.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "isxwajatbig.com": {
         "epoch": 1601251200.0,
