@@ -4672,7 +4672,7 @@
     "dkroonzvxvansw.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dksvmumbi.com": {
         "epoch": 1623715200.0,
@@ -14538,7 +14538,7 @@
     "eztfsnnttpqfs.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ezuereisgj.com": {
         "epoch": 1619654400.0,
