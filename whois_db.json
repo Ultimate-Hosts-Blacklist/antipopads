@@ -2287,7 +2287,7 @@
     "bqntkevvmkk.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bqqnngtpc.com": {
         "epoch": 1616716800.0,
@@ -30719,7 +30719,7 @@
     "qywpsotvagapji.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "qzaahtgpnb.com": {
         "epoch": 1623283200.0,
