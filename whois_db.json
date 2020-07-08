@@ -13842,7 +13842,7 @@
     "endcgwkclhtnk.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "enokjulejktukh.com": {
         "epoch": 1608940800.0,
@@ -15143,7 +15143,7 @@
     "flrqdjglshsbi.com": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "flsfxpostdtvgc.com": {
         "epoch": 1608163200.0,
@@ -29962,9 +29962,9 @@
         "state": "future"
     },
     "qlmygsvk.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
-        "state": "past"
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
     },
     "qlxwtwasgmdf.com": {
         "epoch": 1613952000.0,
