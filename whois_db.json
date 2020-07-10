@@ -32992,9 +32992,9 @@
         "state": "future"
     },
     "ssmyceoxbjqdp.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "ssqpsrlknohdao.com": {
         "epoch": 1613865600.0,
@@ -36340,7 +36340,7 @@
     "vhpmiipdpjq.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "vhtadetq.com": {
         "epoch": 1618963200.0,
