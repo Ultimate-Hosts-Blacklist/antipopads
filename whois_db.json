@@ -2272,7 +2272,7 @@
     "bqbkoyasur.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bqchqjmbkt.com": {
         "epoch": 1609977600.0,
@@ -14928,7 +14928,7 @@
     "fgtskhlizoitz.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "fgzxlngohtg.com": {
         "epoch": 1619568000.0,
