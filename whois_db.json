@@ -20763,7 +20763,7 @@
     "jmxphjxsxd.com": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "jmykbogg.com": {
         "epoch": 1618358400.0,
@@ -26327,9 +26327,9 @@
         "state": "future"
     },
     "nqxdnmsp.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "nqzmtrwend.com": {
         "epoch": 1594598400.0,
@@ -37025,7 +37025,7 @@
     "vvscrhqok.com": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "vvshsrdlf.com": {
         "epoch": 1600819200.0,
