@@ -1362,7 +1362,7 @@
     "ayjfodxqmykn.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "aykgxavgrooa.com": {
         "epoch": 1614297600.0,
@@ -27299,7 +27299,7 @@
     "ohwlwlus.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ohzczsyjadw.com": {
         "epoch": 1603324800.0,
