@@ -14576,9 +14576,9 @@
         "state": "future"
     },
     "farvqaxaoid.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
-        "state": "past"
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
     },
     "fasvgvzxsqxqhu.com": {
         "epoch": 1611878400.0,
@@ -28339,7 +28339,7 @@
     "pgmqzpjoauoknj.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "pgnjgjiwomgdmn.com": {
         "epoch": 1584057600.0,
