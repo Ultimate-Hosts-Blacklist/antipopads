@@ -14258,7 +14258,7 @@
     "eutsbhvtao.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "euuikdao.com": {
         "epoch": 1568505600.0,
@@ -15838,7 +15838,7 @@
     "fvpluqipfjcsf.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "fvptlxwm.com": {
         "epoch": 1618531200.0,
