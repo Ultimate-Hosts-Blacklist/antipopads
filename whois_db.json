@@ -432,7 +432,7 @@
     "ahllgtevqrsh.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ahneiwkpsnxign.com": {
         "epoch": 1597708800.0,
@@ -29689,7 +29689,7 @@
     "qgwazwmlx.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "qgxrmkbzpm.com": {
         "epoch": 1567900800.0,
