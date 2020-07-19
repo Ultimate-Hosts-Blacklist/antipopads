@@ -2455,9 +2455,9 @@
         "state": "past"
     },
     "buhlhkkvljt.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "buhxsaifjxupaj.com": {
         "epoch": 1610323200.0,
@@ -15323,7 +15323,7 @@
     "foswrohqoadp.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "foxlaytg.com": {
         "epoch": 1604448000.0,
