@@ -862,7 +862,7 @@
     "apcugpxy.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "apddozcgdh.com": {
         "epoch": 1602288000.0,
@@ -4352,7 +4352,7 @@
     "deicslktis.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "deiqehvcdnntg.com": {
         "epoch": 1607990400.0,
@@ -33274,7 +33274,7 @@
     "sxwcfnai.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "sxwwizqaoedor.com": {
         "epoch": 1611619200.0,
