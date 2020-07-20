@@ -4832,7 +4832,7 @@
     "dogwuyrspt.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dojmlztmbrvp.com": {
         "epoch": 1614297600.0,
@@ -27109,7 +27109,7 @@
     "oehivgounhm.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "oeidusggzj.com": {
         "epoch": 1618444800.0,
