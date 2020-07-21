@@ -622,7 +622,7 @@
     "alapsblu.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "algrizej.com": {
         "epoch": 1620086400.0,
@@ -3957,7 +3957,7 @@
     "cwpumsjshnacl.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "cwsgwqbcdhtk.com": {
         "epoch": 1611792000.0,
@@ -19258,7 +19258,7 @@
     "imgkcxjlrlqf.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "imhizxejm.com": {
         "epoch": 1605225600.0,
@@ -23803,7 +23803,7 @@
     "lrlkdlpksqveje.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "lruvvletnhv.com": {
         "epoch": 1599436800.0,
@@ -33602,9 +33602,9 @@
         "state": "future"
     },
     "tentekuzi.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
     },
     "tepazmynhvo.com": {
         "epoch": 1569369600.0,
@@ -33679,7 +33679,7 @@
     "tgbjtcgkdu.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "tgdhimcwww.com": {
         "epoch": 1599609600.0,
@@ -37920,7 +37920,7 @@
     "wqhmpzjvdmvm.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "wqkpadciw.com": {
         "epoch": 1608336000.0,
