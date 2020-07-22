@@ -34047,9 +34047,9 @@
         "state": "past"
     },
     "toarqsglo.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
-        "state": "past"
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "state": "future"
     },
     "toenwwsmam.com": {
         "epoch": 1614902400.0,
@@ -40330,7 +40330,7 @@
     "yqkxutfjzbdbml.com": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "yqmhrvvlbm.com": {
         "epoch": 1610582400.0,
