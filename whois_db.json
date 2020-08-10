@@ -2387,7 +2387,7 @@
     "btbuigpxge.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "btdciuqcsvjjt.com": {
         "epoch": 1616976000.0,
@@ -41095,7 +41095,7 @@
     "zexygpxlamac.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "zfcjtxosje.com": {
         "epoch": 1611705600.0,
