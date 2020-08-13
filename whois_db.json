@@ -16193,7 +16193,7 @@
     "gctwvryd.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gcwkjeon.com": {
         "epoch": 1612915200.0,
@@ -19473,7 +19473,7 @@
     "iqfcpnclcaaidy.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "iqiznxqn.com": {
         "epoch": 1627257600.0,
