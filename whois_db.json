@@ -23073,7 +23073,7 @@
     "lfriqmklpsbtq.com": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "lfrqmuplp.com": {
         "epoch": 1609804800.0,
@@ -34432,9 +34432,9 @@
         "state": "future"
     },
     "tvnqeshbs.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
-        "state": "past"
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "state": "future"
     },
     "tvopcxtf.com": {
         "epoch": 1604620800.0,
@@ -39403,9 +39403,9 @@
         "state": "future"
     },
     "xviplxteu.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
-        "state": "past"
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "state": "future"
     },
     "xvlkfkjl.com": {
         "epoch": 1595548800800,
