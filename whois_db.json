@@ -2792,7 +2792,7 @@
     "cbbsnmrwpqou.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cbchvrgqb.com": {
         "epoch": 1613779200.0,
@@ -34844,7 +34844,7 @@
     "ueenfeiu.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "uehequcuvujkyf.com": {
         "epoch": 1605139200.0,
