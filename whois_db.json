@@ -820,9 +820,9 @@
         "state": "future"
     },
     "aopxnvrugx.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
-        "state": "past"
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
+        "state": "future"
     },
     "aoqvizrign.com": {
         "epoch": 1616112000.0,
@@ -1812,7 +1812,7 @@
     "bgvfceqpqzx.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bgwbqsmj.com": {
         "epoch": 1609372800.0,
@@ -23823,7 +23823,7 @@
     "lryfmcok.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "lsckvlhhqlo.com": {
         "epoch": 1611532800.0,
@@ -36495,7 +36495,7 @@
     "vkznlzueuuebb.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "vletnguozhvm.com": {
         "epoch": 1617148800.0,
