@@ -16303,7 +16303,7 @@
     "gfhuvykiqajjbi.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gfladrimbg.com": {
         "epoch": 1604534400.0,
@@ -27084,7 +27084,7 @@
     "odwsequjcyk.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "oebdarcqsqcdk.com": {
         "epoch": 1568160000.0,
