@@ -4097,7 +4097,7 @@
     "czobtirdnwqhn.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "czqrilwnayq.com": {
         "epoch": 1603411200.0,
@@ -4132,7 +4132,7 @@
     "dabxzyfcxrdgbs.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "dacknbenn.com": {
         "epoch": 1608940800.0,
