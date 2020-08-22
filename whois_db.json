@@ -22178,7 +22178,7 @@
     "kohiquor.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "kojywvexdq.com": {
         "epoch": 1622505600.0,
@@ -32192,9 +32192,9 @@
         "state": "future"
     },
     "sdzwkmokd.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
-        "state": "past"
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "state": "future"
     },
     "sdzxojlt.com": {
         "epoch": 1618531200.0,
@@ -40923,9 +40923,9 @@
         "state": "future"
     },
     "zbtffdiu.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
-        "state": "past"
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "state": "future"
     },
     "zbulsymgpbjv.com": {
         "epoch": 1626048000.0,
