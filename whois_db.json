@@ -15308,7 +15308,7 @@
     "foqbcgpwrq.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "foqzposfvmk.com": {
         "epoch": 1623369600.0,
@@ -22599,6 +22599,11 @@
         "epoch": 1566518400.0,
         "expiration_date": "23-aug-2019",
         "state": "past"
+    },
+    "kwuewixsnttz.com": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "state": "future"
     },
     "kwwxnzcielmpy.com": {
         "epoch": 1610064000.0,
