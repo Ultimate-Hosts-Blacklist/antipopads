@@ -747,7 +747,7 @@
     "amxodxmsuwdhn.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "anbalxkcpwa.com": {
         "epoch": 1598486400.0,
@@ -20478,7 +20478,7 @@
     "jijyubjf.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "jikottnbg.com": {
         "epoch": 1623196800.0,
