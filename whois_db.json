@@ -27382,9 +27382,9 @@
         "state": "future"
     },
     "ojwgkxcgdhvacc.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "state": "future"
     },
     "ojwmlieqguqg.com": {
         "epoch": 1599696000.0,
@@ -31554,7 +31554,7 @@
     "rqqljktze.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "rquagrre.com": {
         "epoch": 1569110400.0,
