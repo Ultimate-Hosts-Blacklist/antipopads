@@ -24608,7 +24608,7 @@
     "mfxzxrveb.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "mgdfebwxonyfe.com": {
         "epoch": 1628985600.0,
@@ -37368,9 +37368,9 @@
         "state": "future"
     },
     "wcwdjojsxbbl.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
-        "state": "past"
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "state": "future"
     },
     "wcwzzauws.com": {
         "epoch": 1605139200.0,
