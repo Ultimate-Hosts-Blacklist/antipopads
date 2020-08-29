@@ -1747,7 +1747,7 @@
     "bfvkxdhrnx.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bfxachbubcki.com": {
         "epoch": 1618876800.0,
@@ -28134,7 +28134,7 @@
     "pbyfsnjpnygyfc.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "pcbfhotfyuyg.com": {
         "epoch": 1613433600.0,
