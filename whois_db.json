@@ -5722,7 +5722,7 @@
     "ehgefgcollhd.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ehhmynitx.com": {
         "epoch": 1609891200.0,
@@ -18193,7 +18193,7 @@
     "hrnklivlbhf.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hrorxufknjdm.com": {
         "epoch": 1568937600.0,
