@@ -5357,7 +5357,7 @@
     "dyucosivnycndc.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "dywqwrtnhegyz.com": {
         "epoch": 1568332800.0,
@@ -5720,9 +5720,9 @@
         "state": "future"
     },
     "ehgefgcollhd.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
-        "state": "past"
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "state": "future"
     },
     "ehhmynitx.com": {
         "epoch": 1609891200.0,
@@ -15586,9 +15586,9 @@
         "state": "future"
     },
     "fsaticze.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
-        "state": "past"
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "state": "future"
     },
     "fsbotviofnthgk.com": {
         "epoch": 1606262400.0,
@@ -16926,9 +16926,9 @@
         "state": "future"
     },
     "gsimjyplcciwgb.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
-        "state": "past"
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "state": "future"
     },
     "gsipjksiepxsqi.com": {
         "epoch": 1627171200.0,
@@ -23046,9 +23046,9 @@
         "state": "future"
     },
     "lfahycetwt.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
-        "state": "past"
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "state": "future"
     },
     "lfhgumhsrjjgrt.com": {
         "epoch": 1613347200.0,
@@ -35902,9 +35902,9 @@
         "state": "future"
     },
     "uyyalzrvkvmtiq.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
-        "state": "past"
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "state": "future"
     },
     "uyyimqrmxcwuo.com": {
         "epoch": 1612224000.0,
@@ -39720,7 +39720,7 @@
     "ydkrabhtgci.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "ydlwrwbjosjycn.com": {
         "epoch": 1618963200.0,
