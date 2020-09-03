@@ -4827,7 +4827,7 @@
     "dnzwjlbknhe.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "dogwuyrspt.com": {
         "epoch": 1626739200.0,
@@ -35174,7 +35174,7 @@
     "uklyolpqnt.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "ukngpcuyc.com": {
         "epoch": 1617148800.0,
