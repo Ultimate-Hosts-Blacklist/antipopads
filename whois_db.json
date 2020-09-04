@@ -4567,7 +4567,7 @@
     "dikzfvrgjpygz.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "dillweqbducwi.com": {
         "epoch": 1584662400.0,
@@ -25714,7 +25714,7 @@
     "nchxiaxafowid.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "nchxvxvy.com": {
         "epoch": 1623974400.0,
