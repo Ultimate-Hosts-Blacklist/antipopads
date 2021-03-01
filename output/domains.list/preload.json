@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "910110559b895ec391f56f7cf4835891fcb670a1b56309bde2680726",
+    "line_number": 35791,
+    "output_dir": "/var/lib/jenkins/workspace/osts-blacklist_antipopads_master/output/domains.list",
+    "previous_hash": "910110559b895ec391f56f7cf4835891fcb670a1b56309bde2680726",
+    "session_id": "36485ce9830bedb33904ef5d",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}

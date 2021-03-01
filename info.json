@@ -1,40 +1,17 @@
 {
-    "current_stats": {
-        "builds": 1835,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 6465,
-        "whitelisted.list": 6465
-    },
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2020-03-03T15:45:30.646528",
-    "end_epoch": 1582995178.504958,
+    "end_datetime": "2021-03-01T11:38:25.301510",
+    "end_epoch": 1614595105.30151,
     "issue_link": "https://github.com/Yhonay/antipopads/issues/new",
-    "last_autosave_datetime": "2020-03-03T15:45:30.646547",
-    "last_autosave_epoch": 1583244439.733641,
     "link": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts",
-    "name": "antipopads",
-    "previous_stats": {
-        "builds": 42,
-        "clean.list": 6465,
-        "counter": {
-            "down": 16351,
-            "invalid": 0,
-            "tested": 22816,
-            "up": 6465
-        },
-        "domains.list": 22816,
-        "ip.list": 0,
-        "volatile.list": 6465,
-        "whitelisted.list": 6465
+    "name": "osts-blacklist_antipopads_master",
+    "previous_end_datetime": "2020-03-01T01:37:23.696089",
+    "previous_end_epoch": 1583023043.696093,
+    "previous_start_datetime": "2020-03-01T01:37:23.696082",
+    "previous_start_epoch": 1583023043.696091,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts",
     "start_datetime": "2020-03-03T15:45:30.651736",
