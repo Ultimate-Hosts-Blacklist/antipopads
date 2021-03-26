@@ -1,8 +1,8 @@
 {
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "1d76b85a97ca720fa2157461b7e323b545f2055262882a0b42b1a390",
-    "line_number": 10160,
+    "hash": "3550a2cb986680366d76202981faf1292ea0d85591128a5b45dfc3d4",
+    "line_number": 10439,
     "output_dir": "/home/runner/work/antipopads/antipopads/output/domains.list",
     "previous_hash": null,
     "session_id": "784365bf8b8437964f55f169",
