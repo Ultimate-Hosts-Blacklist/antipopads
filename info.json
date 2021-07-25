@@ -1,19 +1,19 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2021-07-25T08:13:50.698248",
     "end_epoch": 1627200830.698248,
     "issue_link": "https://github.com/Yhonay/antipopads/issues/new",
     "link": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts",
     "name": "antipopads",
-    "previous_end_datetime": "2021-07-24T02:57:25.627034",
-    "previous_end_epoch": 1627095445.627034,
-    "previous_start_datetime": "2021-07-24T02:40:47.694240",
-    "previous_start_epoch": 1627094447.69424,
+    "previous_end_datetime": "2021-07-25T08:13:50.698248",
+    "previous_end_epoch": 1627200830.698248,
+    "previous_start_datetime": "2021-07-25T02:15:43.146478",
+    "previous_start_epoch": 1627179343.146478,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts",
-    "start_datetime": "2021-07-25T02:15:43.146478",
-    "start_epoch": 1627179343.146478
+    "start_datetime": "2021-07-25T11:51:42.095341",
+    "start_epoch": 1627213902.095341
 }
