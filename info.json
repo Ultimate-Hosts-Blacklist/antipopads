@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2021-08-02T08:54:07.112556",
-    "end_epoch": 1627894447.112556,
+    "end_datetime": "2021-08-03T08:49:29.823136",
+    "end_epoch": 1627980569.823136,
     "issue_link": "https://github.com/Yhonay/antipopads/issues/new",
     "link": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts",
     "name": "antipopads",
