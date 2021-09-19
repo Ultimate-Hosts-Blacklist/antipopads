@@ -432,7 +432,6 @@
         "com.bn",
         "edu.bn",
         "gov.bn",
-        "mil.cn",
         "net.bn",
         "org.bn"
     ],
@@ -7803,7 +7802,6 @@
         "barsy.support"
     ],
     "sv": [
-        "com.sv",
         "edu.sv",
         "gob.sv",
         "org.sv",
@@ -8556,6 +8554,7 @@
     "zw": [
         "ac.zw",
         "co.zw",
+        "com.sv",
         "gov.zw",
         "mil.zw",
         "org.zw"
