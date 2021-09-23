@@ -1,0 +1,15 @@
+[
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "domains.list",
+        "hash": "232dbb020a9b62f7a0dcaa2fcf0d60c94c18443c551d691ff4f60ad9",
+        "line_number": 756,
+        "output_dir": "/home/runner/work/antipopads/antipopads/output/domains.list",
+        "previous_hash": "232dbb020a9b62f7a0dcaa2fcf0d60c94c18443c551d691ff4f60ad9",
+        "session_id": "f47e3682b24a7cccec8d9d88",
+        "source": "domains.list",
+        "subject": "domains.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
