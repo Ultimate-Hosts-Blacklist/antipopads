@@ -430,7 +430,6 @@
     ],
     "bn": [
         "co.bn",
-        "com.bn",
         "edu.bn",
         "gov.bn",
         "net.bn",
@@ -522,6 +521,7 @@
         "cim.br",
         "cng.br",
         "cnt.br",
+        "com.bn",
         "com.br",
         "contagem.br",
         "coop.br",
